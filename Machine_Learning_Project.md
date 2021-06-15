@@ -6,7 +6,8 @@ excerpt: "Recent Presentations"
 
 #### ML P
 ## Team members
-- Dylan
-- Munindar
-- Manuel
-- John
+- Dylan Yung
+- Munindar Meena
+- Manuel Fernandez
+- John Montgomery
+- Ignacio Erazo
