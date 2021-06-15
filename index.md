@@ -7,7 +7,7 @@ I am currently pursing my Ph.D. degree in Operations Research with a minor in Ma
 
 ## Current Research Projects:
 
-- Submodular Dispatching Optimization, with multiple applications such as machine scheduling of Same Day Delivery tactical models.
+- Submodular Dispatching Optimization, with multiple applications such as machine scheduling or Same Day Delivery tactical models.
 - Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters.
 - Optimizing the US' Organ Offering System.
 - Optimal Frank-Wolfe algorithm for Stochastic Optimization.
