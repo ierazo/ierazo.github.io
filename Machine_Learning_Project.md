@@ -1,5 +1,5 @@
 ---
-layout: presentation-post-index
+layout: page
 title: ML Project
 excerpt: "Recent Presentations"
 ---
