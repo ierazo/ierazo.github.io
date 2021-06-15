@@ -37,12 +37,12 @@ In order to create our portfolio our goal is to rank the companies according to 
 Robo-traders/advisors have a typical rate of return below 5% [6] and index funds historically have a median annual rate of return of 10%. Exceeding robo-traders' rate of return is our goal, but we expect to be below typical index funds' rates. Our methodology will not rely on private or proprietary data, so we expect our model to generalize under different markets and be replicable; however the lack of "expert" information may not allow us to get an optimal rate of return.
 
 ## Bibliography
-[1] Paul Covington, Jay Adams, and Emre Sargin. "Deep Neural Networks for YouTube Recommendations". *Proceedings of the 10th ACM Conferenceon Recommender Systems.* New York, NY, USA, 2016
-[2] Eugene F. Fama. "The Behavior of Stock-Market Prices". *The Journal of Business* 38.1 (1965), pp. 34–105. issn: 00219398, 15375374.
-[3] Board of Governors of the Federal Reserve System. "Survey of Consumer Finances (SCF)". [link] (https://www.federalreserve.gov/econres/scfindex.htm) 
-[4] Harry Markowitz. "Portfolio Selection". *The Journal of Finance* 7.1 (1952), pp. 77–91
-[5] Steve Y.Yang, Qiang Song and Anqi Liu. "Stock portfolio selection using learning-to-rank algorithms with news sentiment". *Neurocomputing* (2017).
-[6] "Robo-Advisor Performance Is Only One Piece of the Puzzle". [link] (https://www.nerdwallet.com/article/investing/robo-advisor-performance).
-[7] Steve Y.Yang and Saud Almahdi.  "An adaptive portfolio trading system: A risk-return portfolio optimization using recurrent reinforcement learning with expected maximum drawdown". *Expert Systems with Applications* (2017).
-[8] Prisadarng Skolpadungket. "Portfolio management using computational intelligence approaches". PhD thesis. University of Bradford, 2013.
-[9] SP U.S. Indices Methodology. [link] (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf)
+- [1] Paul Covington, Jay Adams, and Emre Sargin. "Deep Neural Networks for YouTube Recommendations". *Proceedings of the 10th ACM Conferenceon Recommender Systems.* New York, NY, USA, 2016
+- [2] Eugene F. Fama. "The Behavior of Stock-Market Prices". *The Journal of Business* 38.1 (1965), pp. 34–105. issn: 00219398, 15375374.
+- [3] Board of Governors of the Federal Reserve System. "Survey of Consumer Finances (SCF)". [link] (https://www.federalreserve.gov/econres/scfindex.htm) 
+- [4] Harry Markowitz. "Portfolio Selection". *The Journal of Finance* 7.1 (1952), pp. 77–91
+- [5] Steve Y.Yang, Qiang Song and Anqi Liu. "Stock portfolio selection using learning-to-rank algorithms with news sentiment". *Neurocomputing* (2017).
+- [6] "Robo-Advisor Performance Is Only One Piece of the Puzzle". [link] (https://www.nerdwallet.com/article/investing/robo-advisor-performance).
+- [7] Steve Y.Yang and Saud Almahdi.  "An adaptive portfolio trading system: A risk-return portfolio optimization using recurrent reinforcement learning with expected maximum drawdown". *Expert Systems with Applications* (2017).
+- [8] Prisadarng Skolpadungket. "Portfolio management using computational intelligence approaches". PhD thesis. University of Bradford, 2013.
+- [9] SP U.S. Indices Methodology. [link] (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf)
