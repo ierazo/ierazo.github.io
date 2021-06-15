@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Website of Ted Laderas
+title: Website of Ignacio Erazo
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -12,7 +12,7 @@ owner:
   email: ierazo@gatech.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #laderast
-  linkedin: #username ignacio-erazo-neira-256b03160
+  linkedin: ignacio-erazo-neira-256b03160 #username ignacio-erazo-neira-256b03160
   github: ierazo
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
