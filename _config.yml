@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Website of Ted Laderas
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Ignacio Erazo
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Ph.D. student in Operations Research at the Georgia Institute of Technology."
+  email: ierazo@gatech.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: #laderast
+  linkedin: #username ignacio-erazo-neira-256b03160
+  github: ierazo
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: WbeeQ0YAAAAJ #id
   facebook: #username
   instagram: #username
   bing-verify:
