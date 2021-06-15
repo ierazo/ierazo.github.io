@@ -25,11 +25,11 @@ The portfolio optimization problem has been widely studied in the literature, an
 Given historical data for a set of stocks, can we leverage this information to create a portfolio, comprised by a subset of those stocks, whose return matches or exceeds the market rate of return (performance) in the future?
 
 ## Methods
-In our dataset each row corresponds to a datapoint of a given stock and columns are relevant attributes. Our first step will be to clean the data (as example, stocks that do not exist anymore) and eliminate some redundant columns. Afterwards, we will add columns to the data set in the form of technical indicators (i.e. functions of basic stock statistics such as: prices,  shares outstanding, \ldots) which have been proven to be relevant for trading performance.
+In our dataset each row corresponds to a datapoint of a given stock and columns are relevant attributes. Our first step will be to clean the data (as example, stocks that do not exist anymore) and eliminate some redundant columns. Afterwards, we will add columns to the data set in the form of technical indicators (i.e., functions of basic stock statistics such as: prices,  shares outstanding, ...) which have been proven to be relevant for trading performance.
 
 In order to create our portfolio our goal is to rank the companies according to some measure of how well they will perform in the future (for example: "probability of being a high performing stock") and use this ranking in a smart way to decide the portfolio composition. So far our plan is:
 - Use unsupervised methods to cluster companies. The output may reduce the number of companies to rank. Also, the clusters' label of stocks will be used as input for the supervised methods.
-- For supervised learning we are thinking of using a Deep Learning ranking algorithm similar to YouTube's recommendation algorithm [1]. This may allow us to create a ranking of the best candidate stocks for our portfolio. Examining methodologies from indices like the S\&P 500 [9], we discovered they have several rules to update its stocks' composition. The ranking method will be helpful, as after new data entries are available we can update the rankings and adjust our portfolio.
+- For supervised learning we are thinking of using a Deep Learning ranking algorithm similar to YouTube's recommendation algorithm [1]. This may allow us to create a ranking of the best candidate stocks for our portfolio. Examining methodologies from indices like the S&P 500 [9], we discovered they have several rules to update its stocks' composition. The ranking method will be helpful, as after new data entries are available we can update the rankings and adjust our portfolio.
 
 
 ## Potential results and Discussion
