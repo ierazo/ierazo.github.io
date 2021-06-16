@@ -4,7 +4,7 @@ title: ML Project
 excerpt: "Recent Presentations"
 ---
 
-###### For the graduate machine learning course (CS7641) in the Computer Science Department in Georgia Tech we are required to perform a project using supervised and unsupervised machine learning algorithms. Having said that, our group decided to develop a Portfolio-Building (stocks) procedure with the goal of exceeding robo-traders' rate of return without the requisite of paid data. We present a short version of our proposal (500+-50 words) below the team's member names, but reach us if you are interested. A video version of our proposal can be found [here](https://www.youtube.com/watch?v=NICXLeaeBtY)
+###### For the graduate machine learning course (CS7641) in the Computer Science Department in Georgia Tech we are required to perform a project using supervised and unsupervised machine learning algorithms. Having said that, our group decided to develop a Portfolio-Building (stocks) procedure with the goal of exceeding robo-traders' rate of return without the requisite of paid data. We present a short version of our proposal (500+-50 words) below the team's member names, but reach us if you are interested. A video version of our proposal can be found [ [HERE](https://www.youtube.com/watch?v=NICXLeaeBtY) ]
 
 ### Team members
 - Dylan Yung
