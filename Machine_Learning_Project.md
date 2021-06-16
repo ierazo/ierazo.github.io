@@ -8,7 +8,7 @@ excerpt: "Recent Presentations"
 
 ### Team members
 - Dylan Yung
-- Munindar Meena
+- [Munindar Meena] (https://www.linkedin.com/in/munindarkr/)
 - Manuel Fernandez
 - John Montgomery
 - Ignacio Erazo
