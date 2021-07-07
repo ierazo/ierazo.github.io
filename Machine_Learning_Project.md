@@ -68,6 +68,7 @@ Robo-traders/advisors have a typical rate of return below 5% [6] and index funds
 - [8] Prisadarng Skolpadungket. "Portfolio management using computational intelligence approaches". PhD thesis. University of Bradford, 2013.
 - [9] Steve Y. Yang and Saud Almahdi.  "An adaptive portfolio trading system: A risk-return portfolio optimization using recurrent reinforcement learning with expected maximum drawdown". *Expert Systems with Applications* (2017).
 - [10] Steve Y. Yang, Qiang Song and Anqi Liu. "Stock portfolio selection using learning-to-rank algorithms with news sentiment". *Neurocomputing* (2017).
+
 <!---
 - [666] Paul Covington, Jay Adams, and Emre Sargin. "Deep Neural Networks for YouTube Recommendations". *Proceedings of the 10th ACM Conferenceon Recommender Systems.* New York, NY, USA, 2016
 - [6] "Robo-Advisor Performance Is Only One Piece of the Puzzle". [link](https://www.nerdwallet.com/article/investing/robo-advisor-performance).
