@@ -70,7 +70,6 @@ We show our results in the two figures below, where the left plot shows the resu
 
 <p align="center">
   <img alt="Training set" src="https://github.com/ierazo/ierazo.github.io/blob/main/images/MLProject/FigTrain1.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Test set" src="https://github.com/ierazo/ierazo.github.io/blob/main/images/MLProject/FigTest1.png" width="45%">
 </p>
 
