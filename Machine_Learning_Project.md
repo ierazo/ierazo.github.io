@@ -68,7 +68,10 @@ This result was then put through a standard linear neural network layer with an 
 
 ## Results and Discussion
 
-We show our results in the two figures below, where the left plot shows the result for the training set, whereas the image in the right shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. If we define the function of our model described in the Model Architecture subsection, with $g_\theta(x)$ where $\theta$ represents the parameters to the model and $x$ represents a 2D matrix of $16 \times 32$ for 16 weeks of stock data and 32 numerical features and $y$ represents the target value then our loss becomes:
+We show our results in the two figures below, where the left plot shows the result for the training set, whereas the image in the right shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. If we define the function of our model described in the Model Architecture subsection, with **g(theta,x)** where **theta** represents the parameters to the model and **x** represents a 2D matrix of 16 x 32 for 16 weeks of stock data and 32 numerical features; with **y** being the target value; then our loss becomes: 
+
+![formula](https://render.githubusercontent.com/render/math?math=\mathbf{L}(\theta) = \frac{1}{N}\sum_{i=1}^N(y_i-g_{\theta}(x_i))^2)
+
 $$\mathbf{L}(\theta) = \frac{1}{N}\sum_{i=1}^N(y_i-g_{\theta}(x_i))^2$$
 
 <p align="center">
