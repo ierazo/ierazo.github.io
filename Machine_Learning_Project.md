@@ -68,11 +68,7 @@ This result was then put through a standard linear neural network layer with an 
 
 ## Results and Discussion
 
-We show our results in the two figures below, where the left plot shows the result for the training set, whereas the image in the right shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. If we define the function of our model described in the Model Architecture subsection, with **g(theta,x)** where **theta** represents the parameters to the model and **x** represents a 2D matrix of 16 x 32 for 16 weeks of stock data and 32 numerical features; with **y** being the target value; then our loss becomes: 
-
-![formula](https://render.githubusercontent.com/render/math?math=\mathbf{L}(\theta) = \frac{1}{N}\sum_{i=1}^N(y_i-g_{\theta}(x_i))^2)
-
-$$\mathbf{L}(\theta) = \frac{1}{N}\sum_{i=1}^N(y_i-g_{\theta}(x_i))^2$$
+We show our results in the two figures below, where the left plot shows the result for the training set, whereas the image in the right shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. 
 
 <p align="center">
   <img title="Training set" alt="Training set" src="./images/MLProject/FigTrain1.png" width="45%">
@@ -80,7 +76,9 @@ $$\mathbf{L}(\theta) = \frac{1}{N}\sum_{i=1}^N(y_i-g_{\theta}(x_i))^2$$
   <img title="Test set" alt="Test set" src="./images/MLProject/FigTest1.png" width="45%">
 </p>
 
-If you notice the y-axis in \ref{fig:sfig1} the loss over evaluation set is in the $1e^10$, which is quite large. We evaluated our method against a simple linear regression using SKlearn, by flattening the $16 \times 32$ matrix into just a 384 vector and feeding that as a feature into a linear regression model. SKlearn's linear regression model had an MSE of 1384, which is a lot lower than our model has performed. This could potentially mean that our kernel needs to be larger as the kernel only looks at 1 row in the $16 \times 32$ matrix and the linear regression model looks at all the rows at once. Learning a weighted kernel of size 1, maybe too small to encapsulate all the complexities of stock trends. In future works we will explore compressing the $16 \times 32$ matrix using unsupervised auto-encoder methods and then feeding that compression through a linear layer to see if we get improved results.
+By looking at the y-axis, we note that the loss over evaluation set is very large, as the scale is over billions; and remains high even for the last epoch (which corresponds to the loss of the test set after training on 500 epochs in the training set). We evaluated our method against a simple linear regression using SKlearn, by flattening the **16 x 32** matrix into just a 384 vector and feeding that as a feature into a linear regression model. SKlearn's linear regression model had an MSE of 1384, which is a lot lower than our model has performed. This could potentially mean that our kernel needs to be larger as the kernel only looks at 1 row in the **16 x 32** matrix and the linear regression model looks at all the rows at once. Learning a weighted kernel of size 1 may be too small to encapsulate all the complexities of stock trends. In future works we will explore compressing the **16 x 32** matrix using unsupervised auto-encoder methods and then feeding that compression through a linear layer to see if we get improved results.
+
+Furthermore, it seems we are just experiencing the difficulty of getting accurate results on the forecast of prices for future stocks, which is a well-known phenomenon in the literature. As our goal is to create a portfolio, our next step is to use our predictions and to build an optimization model on top of it; such as to optimize the resulting portfolio. We still have as goal beating the typical rate of return of Robo-traders/advisors (usually below 5% [11]); and hopefully be close to the performance of the market.
 
 
 
@@ -102,6 +100,7 @@ Robo-traders/advisors have a typical rate of return below 5% [6] and index funds
 - [8] Prisadarng Skolpadungket. "Portfolio management using computational intelligence approaches". PhD thesis. University of Bradford, 2013.
 - [9] Steve Y. Yang and Saud Almahdi.  "An adaptive portfolio trading system: A risk-return portfolio optimization using recurrent reinforcement learning with expected maximum drawdown". *Expert Systems with Applications* (2017).
 - [10] Steve Y. Yang, Qiang Song and Anqi Liu. "Stock portfolio selection using learning-to-rank algorithms with news sentiment". *Neurocomputing* (2017).
+- [11] "Robo-Advisor Performance Is Only One Piece of the Puzzle". [link](https://www.nerdwallet.com/article/investing/robo-advisor-performance).
 
 <!---
 - [666] Paul Covington, Jay Adams, and Emre Sargin. "Deep Neural Networks for YouTube Recommendations". *Proceedings of the 10th ACM Conferenceon Recommender Systems.* New York, NY, USA, 2016
