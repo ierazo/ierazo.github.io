@@ -64,9 +64,9 @@ This result was then put through a standard linear neural network layer with an 
 -->
 
 <p align="center">
-  <img title="Training set" alt="Training set" src="./images/MLProject/FigTrain1.png" width="50%">
+  <img title="Training set" alt="Training set" src="./images/MLProject/FigTrain1.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img title="Test set" alt="Test set" src="./images/MLProject/FigTest1.png" width="50%">
+  <img title="Test set" alt="Test set" src="./images/MLProject/FigTest1.png" width="45%">
 </p>
 
 
