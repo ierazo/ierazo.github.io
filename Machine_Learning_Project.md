@@ -63,14 +63,24 @@ This result was then put through a standard linear neural network layer with an 
 ![image](/images/MLProject/FigTest1.png)
 -->
 
+
+
+
+## Results and Discussion
+
+We show our results in the two figures below, where the left plot shows the result for the training set, whereas the image in the right shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. If we define the function of our model described in the Model Architecture subsection, with $g_\theta(x)$ where $\theta$ represents the parameters to the model and $x$ represents a 2D matrix of $16 \times 32$ for 16 weeks of stock data and 32 numerical features and $y$ represents the target value then our loss becomes:
+$$\mathbf{L}(\theta) = \frac{1}{N}\sum_{i=1}^N(y_i-g_{\theta}(x_i))^2$$
+
 <p align="center">
   <img title="Training set" alt="Training set" src="./images/MLProject/FigTrain1.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img title="Test set" alt="Test set" src="./images/MLProject/FigTest1.png" width="45%">
 </p>
 
+If you notice the y-axis in \ref{fig:sfig1} the loss over evaluation set is in the $1e^10$, which is quite large. We evaluated our method against a simple linear regression using SKlearn, by flattening the $16 \times 32$ matrix into just a 384 vector and feeding that as a feature into a linear regression model. SKlearn's linear regression model had an MSE of 1384, which is a lot lower than our model has performed. This could potentially mean that our kernel needs to be larger as the kernel only looks at 1 row in the $16 \times 32$ matrix and the linear regression model looks at all the rows at once. Learning a weighted kernel of size 1, maybe too small to encapsulate all the complexities of stock trends. In future works we will explore compressing the $16 \times 32$ matrix using unsupervised auto-encoder methods and then feeding that compression through a linear layer to see if we get improved results.
 
-HELLLLLO
+
+
 
 <!---
 ## Potential results and Discussion
