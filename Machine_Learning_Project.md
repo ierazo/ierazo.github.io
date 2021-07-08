@@ -64,14 +64,18 @@ This result was then put through a standard linear neural network layer with an 
 
 ## Results and Discussion
 
-We show our results in the two figures below, where the left plot shows the result for the training set, whereas the image in the right shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. 
+We show our results in the two figures below, where the first plot shows the result for the training set, whereas the second image shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. 
+
+![image](/images/MLProject/FigTrain1.png)
 
 ![image](/images/MLProject/FigTest1.png)
 
+<!---
 <p align="center">
   <img alt="Training set" src="https://github.com/ierazo/ierazo.github.io/blob/main/images/MLProject/FigTrain1.png" width="45%">
   <img alt="Test set" src="https://github.com/ierazo/ierazo.github.io/blob/main/images/MLProject/FigTest1.png" width="45%">
 </p>
+-->
 
 By looking at the y-axis, we note that the loss over evaluation set is very large, as the scale is over billions; and remains high even for the last epoch (which corresponds to the loss of the test set after training on 500 epochs in the training set). We evaluated our method against a simple linear regression using SKlearn, by flattening the **16 x 32** matrix into just a 384 vector and feeding that as a feature into a linear regression model. SKlearn's linear regression model had an MSE of 1384, which is a lot lower than our model has performed. This could potentially mean that our kernel needs to be larger as the kernel only looks at 1 row in the **16 x 32** matrix and the linear regression model looks at all the rows at once. Learning a weighted kernel of size 1 may be too small to encapsulate all the complexities of stock trends. In future works we will explore compressing the **16 x 32** matrix using unsupervised auto-encoder methods and then feeding that compression through a linear layer to see if we get improved results.
 
