@@ -64,8 +64,6 @@ This result was then put through a standard linear neural network layer with an 
 -->
 
 
-
-
 ## Results and Discussion
 
 We show our results in the two figures below, where the left plot shows the result for the training set, whereas the image in the right shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. 
