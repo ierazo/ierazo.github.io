@@ -61,6 +61,14 @@ This result was then put through a standard linear neural network layer with an 
 
 ![image](/images/MLProject/FigTest1.png)
 
+
+<p align="center">
+  <img alt="Training set" src="./images/MLProject/FigTrain1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Test set" src="./images/MLProject/FigTest1.png" width="45%">
+</p>
+
+
 <img align="left" src="./images/MLProject/FigTrain1.png" alt="Made with Angular" title="Training set" hspace="15"/>
 <img align="right" src="./images/MLProject/FigTest1.png" alt="Made with Bootstrap" title="Test set" hspace="15"/>
 
