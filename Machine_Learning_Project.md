@@ -81,8 +81,9 @@ By looking at the y-axis, we note that the loss over evaluation set is very larg
 
 Furthermore, it seems we are just experiencing the difficulty of getting accurate results on the forecast of prices for future stocks, which is a well-known phenomenon in the literature. As our goal is to create a portfolio, our next step is to use our predictions and to build an optimization model on top of it; such as to optimize the resulting portfolio. We still have as goal beating the typical rate of return of Robo-traders/advisors (usually below 5% [11]); and hopefully be close to the performance of the market.
 
-
-
+<!--- Preliminary IP formulation
+-->
+<img src="http://www.sciweavers.org/tex2img.php?eq=%25%5Cbegin%7Balign%2A%7D%0Amax%20%26%5Csum_%7Bi%20%5Cin%20S%7DROR_i%20y_i%20%2B%20%5Csum_%7Bi%20%5Cin%20S%7DROR_i%20%28Q-X_i%29%20%5C%5C%0As.t.%20%26%200%3C%3Dy_i%3C%3D1%0A%25%5Cend%7Balign%2A%7D%0A&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt="%\begin{align*}max &\sum_{i \in S}ROR_i y_i + \sum_{i \in S}ROR_i (Q-X_i) \\s.t. & 0<=y_i<=1%\end{align*}" width="317" height="44" />
 
 <!---
 ## Potential results and Discussion
