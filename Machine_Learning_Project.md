@@ -33,6 +33,7 @@ We focus on the portfolio optimization problem, which seeks to build a portfolio
 
 In simple terms, our problem statement is: Given historical data for a set of stocks overtime period [a,b], can we leverage this information to create a portfolio, comprised by a subset of those stocks, whose return matches or exceeds the market rate of return (performance) over some period [b,c]?
 
+<!---
 
 ## Data Collection
 
@@ -59,7 +60,7 @@ The input into our model is a 3D tensor of dimension **batch size x 16 weeks x 3
 
 This result was then put through a standard linear neural network layer with an input size of 32 and output size of 16; and finally the result of this process was put through another linear layer of output size 1. This architecture was implemented in order to create a bottleneck and reduce the dimension of features to 1 as our target value is just the rate of return (and stock value) in 4 months after the input. We started with this simple method so we could evaluate its flaws and do do further modifications to avoid them in the future when implementing more methods. Also we thought we could decide on what was the best unsupervised to use depending on our results and the flaws encountered after this first method. 
 
-
+-->
 
 
 ## Results and Discussion
@@ -72,8 +73,8 @@ We show our results in the two figures below, where the first plot shows the res
 
 |  Fruit          |  Price                     |  Advantages               | PUM   | PUM2  |
 | :-------------: | :----------------------- : | :-----------------------: | :---: | :---: |
-| Bananas         | first line<br>next line    | first line<br>next line   |Chepi  | Chepi2 | 
-| Bananas         | first line<br>next line    | first line<br>next line   |Chepi  | Chepi2 |
+| Bananas         | first line<br>next line    | first line<br>next line   |Bananas  | Bananas | 
+| Bananas         | first line<br>next line    | first line<br>next line   |Bananas  | Bananas |
 
 <!---
 <p align="center">
