@@ -72,8 +72,8 @@ We show our results in the two figures below, where the first plot shows the res
 
 |  Fruit          |  Price                     |  Advantages               |
 | :-------------: | :----------------------- : | :-----------------------: |
-| Bananas       | first line<br>next line | first line<br>next line |
-| Bananas       | first line<br>next line | first line<br>next line |
+| Bananas         | first line<br>next line    | first line<br>next line   |
+| Bananas         | first line<br>next line    | first line<br>next line   |
 
 <!---
 <p align="center">
