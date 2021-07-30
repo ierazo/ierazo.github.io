@@ -70,6 +70,7 @@ We show our results in the two figures below, where the first plot shows the res
 
 ![image](/images/MLProject/FigTest1.png)
 
+![image](/images/MLProject/Tab.png)
 <!---
 <p align="center">
   <img alt="Training set" src="https://github.com/ierazo/ierazo.github.io/blob/main/images/MLProject/FigTrain1.png" width="45%">
