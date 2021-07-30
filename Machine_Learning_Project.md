@@ -70,7 +70,10 @@ We show our results in the two figures below, where the first plot shows the res
 
 ![image](/images/MLProject/FigTest1.png)
 
-![image](/images/MLProject/Tab.png)
+| Fruit         | Price                   | Advantages              |
+| ------------- | ----------------------- | ----------------------- |
+| Bananas       | first line<br>next line | first line<br>next line |
+| Bananas       | first line<br>next line | first line<br>next line |
 
 <!---
 <p align="center">
