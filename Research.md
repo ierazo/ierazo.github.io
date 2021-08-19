@@ -5,12 +5,12 @@ excerpt: "Research"
 ---
 
 # Journal papers 
-- Ignacio Erazo and David Goldsman (2021). "Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters", under minor revisions in *Journal of Simulation*.
+- Ignacio Erazo and David Goldsman (2021). "Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters", Accepted and to be published in *Journal of Simulation*.
 
 
 
 # Conference papers
-- Ignacio Erazo and Rodrigo de la Fuente (2021). "A simulation-based approach to compare policies and stakeholders' behaviors for the ride-hailing assignment problem", under minor revisions for *Winter Simulation Conference* 
+- Ignacio Erazo and Rodrigo de la Fuente (2021). "A simulation-based approach to compare policies and stakeholders' behaviors for the ride-hailing assignment problem", Accepted and to be published in the proceedings of the *Winter Simulation Conference 2021*. 
 - Rodrigo De la Fuente, Raymond Smith III, Ignacio Erazo (2018)."Enabling Intelligent Processes in Simulation Utilizing the Tensor Flow Deep Learning Resources". *In Proceedings of the 2018 Winter Simulation Conference*, pages 1108-1119. [link](https://ieeexplore.ieee.org/document/8632539)
 
 
