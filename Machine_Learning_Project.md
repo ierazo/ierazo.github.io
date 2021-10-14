@@ -65,27 +65,7 @@ This result was then put through a standard linear neural network layer with an 
 
 ## Results and Discussion
 
-We show our results in the two figures below, where the first plot shows the result for the training set, whereas the second image shows it for the test set. Each ''epoch" represents 1 run through all the training data, and the objective function is shown for the training and test set. We consider as loss Mean Squared Error (MSE) and it is easy to see that it begins to plateau around 100 epochs. 
-
-![image](/images/MLProject/FigTrain1.png)
-
-![image](/images/MLProject/FigTest1.png)
-
-|  Fruit          |  Price                     |  Advantages               | PUM   | PUM2  |
-| :-------------: | :----------------------- : | :-----------------------: | :---: | :---: |
-| Bananas         | first line<br>next line    | first line<br>next line   |Bananas  | Bananas | 
-| Bananas         | first line<br>next line    | first line<br>next line   |Bananas  | Bananas |
-
-<!---
-<p align="center">
-  <img alt="Training set" src="https://github.com/ierazo/ierazo.github.io/blob/main/images/MLProject/FigTrain1.png" width="45%">
-  <img alt="Test set" src="https://github.com/ierazo/ierazo.github.io/blob/main/images/MLProject/FigTest1.png" width="45%">
-</p>
--->
-
-By looking at the y-axis, we note that the loss over evaluation set is very large, as the scale is over billions; and remains high even for the last epoch (which corresponds to the loss of the test set after training on 500 epochs in the training set). We evaluated our method against a simple linear regression using SKlearn, by flattening the **16 x 32** matrix into just a 384 vector and feeding that as a feature into a linear regression model. SKlearn's linear regression model had an MSE of 1384, which is a lot lower than our model has performed. This could potentially mean that our kernel needs to be larger as the kernel only looks at 1 row in the **16 x 32** matrix and the linear regression model looks at all the rows at once. Learning a weighted kernel of size 1 may be too small to encapsulate all the complexities of stock trends. In future works we will explore compressing the **16 x 32** matrix using unsupervised auto-encoder methods and then feeding that compression through a linear layer to see if we get improved results.
-
-Furthermore, it seems we are just experiencing the difficulty of getting accurate results on the forecast of prices for future stocks, which is a well-known phenomenon in the literature. As our goal is to create a portfolio, our next step is to use our predictions and to build an optimization model on top of it; such as to optimize the resulting portfolio. We still have as goal beating the typical rate of return of Robo-traders/advisors (usually below 5% [11]); and hopefully be close to the performance of the market.
+So far our results have exceeded our expectations, beating in 90% of the decision epochs the performance of SP&500, NASDAQ and Dow Jones, evaluating over a moving-window 10 year period. Having said that, in this very moment our focus is to develop a minimum viable product and evaluate the real-world performance of our algorithms by using them for trading. 
 
 <!--- Preliminary IP formulation
 -->
