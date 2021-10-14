@@ -5,7 +5,7 @@ excerpt: "Research"
 ---
 
 # Journal papers 
-- Ignacio Erazo and David Goldsman (2021). "Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters", Accepted and to be published in *Journal of Simulation*.
+- Ignacio Erazo and David Goldsman (2021). "Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters", published in *Journal of Simulation*. <a href="papers/PrePrintBernoulliCI.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 
 
