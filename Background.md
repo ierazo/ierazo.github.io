@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Background
+title: Education
 excerpt: "Recent Presentations"
 ---
-
-# Education
 #### Ph.D. in Operations Research, Georgia Institute of Technology (2019-2022 Expected)
 - Concentration: Optimization
 - Minor: Machine Learning
+
+
 #### M.Sc in Operations Research, Georgia Institute of Technology (2019-2021)
 #### B.Sc in Industrial Civil Engineering, University of Concepcion (2014-2019)
 
