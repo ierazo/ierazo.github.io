@@ -16,4 +16,4 @@
 
 # Service
 - Selected by the chair of ISyE at GaTech to be the ISyE representative in the ''College of Engineering Graduate Student Advisory Council'' (2021-2022 Academic Year).
-- PURA [Explanation](http://www.undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards) reviewer, Fall 2021.
+- [PURA](http://www.undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards) reviewer, Fall 2021.
