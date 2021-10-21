@@ -8,6 +8,11 @@
 # Selected Honors
 - University of Concepcion Prize, class 2014 Industrial Civil Engineering. This award is given by the university to the most deserving student (if any) of the respective class.
 - First place of the ''2019 University of Concepcion Programming Tournament'' under the ''Non Computer Science'' major category.
+- Leader of World Finalist Teams for Simio Simulation Competition (Fall 2016, Spring 2017) 
 - Stewart Fellowship in Georgia Tech
 - Best GPA class 2014 of Industrial Civil Engineering in years 2014, 2015, 2016, 2017, 2018, 2019.
--  
+- Highest Recognition ''Tres Bien'' in French Baccalaureat, maximum scores in Mathematics, Physics and Chemistry.
+
+# Service
+- Selected by the chair of ISyE at GaTech to be the ISyE representative in the ''College of Engineering Graduate Student Advisory Council'' (2021-2022 Academic Year).
+- PURA [Explanation](http://www.undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards) reviewer, Fall 2021.
