@@ -3,7 +3,7 @@ layout: page
 title: Education
 excerpt: "Recent Presentations"
 ---
-#### Ph.D. in Operations Research, Georgia Institute of Technology (2019-2022 Expected)
+#### Ph.D. in Operations Research, Georgia Institute of Technology (2019-2023 Expected)
 - Concentration: Optimization
 - Minor: Machine Learning
 
@@ -22,3 +22,4 @@ excerpt: "Recent Presentations"
 # Service
 - Selected by the chair of ISyE at GaTech to be the ISyE representative in the ''College of Engineering Graduate Student Advisory Council'' (2021-2022 Academic Year).
 - [PURA](http://www.undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards) reviewer, Fall 2021.
+- Part of ISyE's Graduate Student Advisory Council (GSAC) for the 2022-2023 academic year.
