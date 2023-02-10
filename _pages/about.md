@@ -9,16 +9,16 @@ profile:
   image: prof_pic_apple.jpg # found in assets/img
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Groseclose 409</p>
+    <p>H. Milton Stewart School of Industrial and Systems Engineering</p>
+    <p>Atlanta, GA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Ignacio Erazo, a fourth year Ph.D. candidate majoring in Operations Research and minoring in Machine Learning at the Georgia Institute of Technology. My research interests include the development of efficient optimization algorithms and heuristics for intelligent decision-making, but also large-scale simulation-optimization procedures. I am currently working under the supervision of [Prof. Alejandro Toriello](https://sites.gatech.edu/alejandro-toriello/) and [Prof. David Goldsman](https://www.isye.gatech.edu/users/david-goldsman).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
