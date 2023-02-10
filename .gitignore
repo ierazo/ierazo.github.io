@@ -9,7 +9,8 @@ _site
 Gemfile.lock
 vendor
 how_to_edit.md
-#_pages
+#_pages, it was formerly blog instead of _blog
+_blog/ 
 _pages/cv_try.md
 _pages/repositories_try.md
 _pages/projects_try.md
