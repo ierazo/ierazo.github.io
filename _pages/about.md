@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. candidate at <a href='https://www.isye.gatech.edu/'>Georgia Tech</a>.
 
 profile:
   align: right
