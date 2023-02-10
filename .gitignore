@@ -8,4 +8,8 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
-
+how_to_edit.md
+# on _pages: tabs on the webpage
+_pages/cv.md
+_pages/repositories.md
+_pages/projects.md
