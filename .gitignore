@@ -9,7 +9,7 @@ _site
 Gemfile.lock
 vendor
 how_to_edit.md
-# on _pages: tabs on the webpage
-_pages/cv.md
-_pages/repositories.md
-_pages/projects.md
+#_pages
+_pages/cv_try.md
+_pages/repositories_try.md
+_pages/projects_try.md
