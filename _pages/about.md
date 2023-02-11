@@ -20,6 +20,5 @@ social: true  # includes social icons at the bottom of the page
 
 I am Ignacio Erazo, a fourth year Ph.D. candidate majoring in Operations Research and minoring in Machine Learning at the Georgia Institute of Technology. My research interests include the development of efficient optimization algorithms and heuristics for intelligent decision-making, but also large-scale simulation-optimization procedures. I am currently working under the supervision of [Prof. Alejandro Toriello](https://sites.gatech.edu/alejandro-toriello/) and [Prof. David Goldsman](https://www.isye.gatech.edu/users/david-goldsman).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
