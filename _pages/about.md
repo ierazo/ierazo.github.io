@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. candidate at <a href='https://www.isye.gatech.edu/'>Georgia Tech</a>.
 
