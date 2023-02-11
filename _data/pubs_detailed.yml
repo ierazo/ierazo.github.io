@@ -1,0 +1,46 @@
+- title: Preprints
+  type: time_table
+  contents:
+    - title: Submodular Dispatching
+      year: 2022
+      description:
+        - Erazo and Toriello, under major revisions at Operations Research.
+        - title: Presentations
+          contents:
+            - INFORMS General Meeting 2021.
+            - Odysseus 2022.
+    - title: Efficient
+      year: 2022
+      description:
+        - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
+
+- title: Journal Publications
+  type: time_table
+  contents:
+    - title: Efficient confidence intervals for the difference of two Bernoulli distributions' success parameters
+      year: 2023
+      description:
+        - Erazo and Goldsman, Journal of Simulation (2023)
+        - title: Presentations
+          contents:
+            - Africa summit
+
+- title: Conference Publications
+  type: time_table
+  contents:
+    - title: A Simulation-Optimization Framework to Improve the Organ Transplantation Offering System
+      year: 2022
+      description:
+        - Erazo and Goldsman, WSC 2022
+        - Best Applied Student Paper (Winner) WSC 2022 
+        - title: Presentations
+          contents:
+            - PhD Colloquium, Poster Madness and General Session, WSC
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
