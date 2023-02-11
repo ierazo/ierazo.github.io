@@ -14,6 +14,20 @@
       description:
         - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
 
+- title: Preprint Articles
+  type: nested_list
+  contents:
+    - title: Discrete and Combinatorial Optimization.
+      items: 
+        - Erazo and Toriello, "Submodular Dispatching", under major revisions at <em> Operations Research </em>
+        
+    - title: Optimization
+      items:
+        - Description 1.
+        - Description 2.
+
+
+
 - title: Journal Publications
   type: time_table
   contents:
