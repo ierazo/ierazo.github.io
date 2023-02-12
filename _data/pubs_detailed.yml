@@ -24,7 +24,7 @@
           contents:
             - Erazo and Toriello, under major revisions at Operations Research.
             - INFORMS General Meeting 2021, at Odysseus 2022, USC, Arizona, etc
-            - <a href="{{ example_pdf.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" ><i class="fas fa-file-pdf"></i></a>
+            - <a href="../assets/pdf/example_pdf.pdf"><i class="fas fa-file-pdf"></i></a>
         - title: MV SMD
           contents:
             - To be presented in TSL
