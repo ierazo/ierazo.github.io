@@ -22,11 +22,13 @@
                   <li>
                     {% if item.contents %}
                       <span class="item-title">{{ item.title }}</span>
+                      <font size="-1"> 
                       <ul class="subitems">
                       {% for subitem in item.contents %}
                         <li><span class="subitem">{{ subitem }}</span></li>
                       {% endfor %}
                       </ul>
+                      </font>
                     {% else %}
                       <span class="item">{{ item }}</span>
                     {% endif %}
