@@ -14,57 +14,37 @@
 
     - title: Efficient computation of confidence intervals
       description:
-        - title: Erazo, I., Goldsman, D. and Mei, Y. (2022),  <a href="https://arxiv.org/abs/2207.01400"> "Cost-Efficient Fixed-Width Confidence Intervals for the Difference of Two Bernoulli Proportions" </a>, under major revisions in <em> Journal of Simulation </em>.
+        - title: Erazo, I., Goldsman, D. and Mei, Y. (2022),  <a href="https://arxiv.org/abs/2207.01400"> Cost-Efficient Fixed-Width Confidence Intervals for the Difference of Two Bernoulli Proportions </a>, under major revisions in <em> Journal of Simulation </em>.
           
 
 # Journal
 - title: Journal Articles
   type: pubs_list
   contents:
-    - title: Discrete and combinatorial Optimization
+    - title: Efficient computation of confidence intervals
       description:
-        - title: Erazo, I. and Toriello A., <a href="https://optimization-online.org/2022/07/8965/">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em> 
+        - title: Erazo, I. and Goldsman, D. (2021), <a href="https://www.tandfonline.com/doi/abs/10.1080/17477778.2021.1955629?scroll=top&needAccess=true&journalCode=tjsm20"> Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters </a>, <em> Journal of Simulation </em>.
           contents:
-            - Presented in Informs General Meeting 2021, at Odysseus Tri-annual conferece, USC, Arizona, among others.
-            - <a href="../assets/pdf/example_pdf.pdf"><i class="fas fa-file-pdf"></i></a>
-        - title: MV SMD
-          contents:
-            - To be presented in TSL
+            - Presented in African Summit
 
-    - title: Efficient sampling
-      description:
-        - title: Erazo, Goldsman and Mei (2022), Efficient Confidence intervals cost computations.
-          contents:
-            - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
-
-
-- title: Journal Publications
-  type: time_table
+# Conference
+- title: Conference Articles
+  type: pubs_list
   contents:
-    - title: Efficient confidence intervals for the difference of two Bernoulli distributions' success parameters
-      year: 2023
+    - title: Simulation Optimization
       description:
-        - Erazo and Goldsman, Journal of Simulation (2023)
-        - title: Presentations
+        - title: Erazo et al (2022), <a href="https://informs-sim.org/wsc22papers/104.pdf"> A Simulation-Optimization Framework To Improve The Organ Transplantation Offering System </a>, <em> in Proceedings of the Winter Simulation Conference 2022 </em>.
           contents:
-            - Africa summit
+            - Best Applied Student Paper Award (Winner).
+            - Presented in Ph.D. Colloquium, Poster Madness and Health-Care Applications Track.
 
-- title: Conference Publications
-  type: time_table
-  contents:
-    - title: A Simulation-Optimization Framework to Improve the Organ Transplantation Offering System
-      year: 2022
+        - title: Erazo, I. and De la Fuente, R. (2021), <a href="https://ieeexplore.ieee.org/document/9715367"> A simulation-based approach to compare policies and stakeholders' behaviors for the ride-hailing assignment problem </a>, <em> in Proceedings of the Winter Simulation Conference 2021 </em>.
+          contents:
+            - Presented in General Meeting.
+
+    - title: Simulation and Machine Learning
       description:
-        - Erazo and Goldsman, WSC 2022
-        - Best Applied Student Paper (Winner) WSC 2022 
-        - title: Presentations
-          contents:
-            - PhD Colloquium, Poster Madness and General Session, WSC
+        - title: De la Fuente, R., Smith, R. and Erazo, I. (2018), <a href="https://ieeexplore.ieee.org/document/8632539"> Enabling Intelligent Processes in Simulation Utilizing the Tensor Flow Deep Learning Resources </a>, <em> in Proceedings of the Winter Simulation Conference 2018</em>.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
 
