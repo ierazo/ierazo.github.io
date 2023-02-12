@@ -20,24 +20,24 @@
         - GPA 4.0
         - title: Coursework
           contents:
-            - Optimization (Linear, Discrete, Non-Linear, Stochastic).
+            - Optimization = Linear, Discrete, Non-Linear and Stochastic.
             - Stochastic Processes I and II, Simulation and Theory.
             - Machine Learning and Theoretical Reinforcement Learning.
             - Logistics and Inventory.
     - title: M.Sc. in Operations Research
       institution: Georgia Institute of Technology, Atlanta, USA
       year: 2019-2021
-      description:
-        - Description 1.
-        - Description 2.
     - title: B.Sc. in Industrial Civil Engineering
       institution: Universidad de Concepcion, Concepcion, Chile
       year: 2014-2019
       description:
         - GPA 6.7/7, rank 1/120, best GPA each year during 2014-2019.
-        - Description 1.
-        - Description 2.
-
+        - title: Coursework
+          contents:
+            - Math = Calculus I, II and III, Algebra I, II, Diff. Equations, Statistics I, II, Multivariate Statistical Analysis.
+            - Science = Physics I, II and III, Chemistry I, II and III, Mechanics, Fluid Mechanics, Electrical Machines, Thermodynamics, Heat Exchange, Industrial Processes. 
+            - Operations Research = Optimization I, II, Simulation, Logistics, Stochastic Processes
+            - Business = Innovation, Entrepreneurship, Administration, Human Resources
 - title: Experience
   type: time_table
   contents:
