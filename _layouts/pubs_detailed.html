@@ -21,6 +21,8 @@ layout: default
                     {% include cv/map.html %}
                   {% elsif entry.type == "nested_list" %}
                     {% include cv/nested_list.html %}
+                  {% elsif entry.type == "pubs_list" %}
+                    {% include cv/pubs_list.html %}
                   {% elsif entry.type == "time_table" %}
                    {% include cv/time_table.html %}
                   {% else %}
