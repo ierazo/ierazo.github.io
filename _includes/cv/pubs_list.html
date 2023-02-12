@@ -6,7 +6,7 @@
             <h6 class="font-weight-bold font-italic">{{content.title}}</h6>
             {% endif %}
             {% if content.description %}
-              <ul class="items">
+              <ol type="1" class="items">
                 {% for item in content.description %}
                   <li>
                     {% if item.title %}
@@ -21,7 +21,7 @@
                     {% endif %}
                   </li>
                 {% endfor %}
-              </ul>
+              </ol>
             {% endif %}
         </div>
       </li>
