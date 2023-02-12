@@ -10,12 +10,12 @@
                 {% for item in content.description %}
                   <li>
                     {% if item.title %}
-                        <span class="item-title">{{ item.title }}</span>
+                        <span class="item-title">  <small> {{ item.title }} </small> </span>
                     {% endif %}
                     {% if item.contents %}
                       <ul class="subitems">
                       {% for subitem in item.contents %}
-                        <li><span class="subitem">{{ subitem }}</span></li>
+                        <li><span class="subitem"> <small> {{ subitem }} </small> </span></li>
                       {% endfor %}
                       </ul>
                     {% endif %}
