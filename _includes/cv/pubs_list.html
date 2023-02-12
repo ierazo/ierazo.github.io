@@ -6,22 +6,24 @@
             <h6 class="font-weight-bold font-italic">{{content.title}}</h6>
             {% endif %}
             {% if content.description %}
+            <font size="-2">
               <ol type="1" class="items">
                 {% for item in content.description %}
                   <li>
                     {% if item.title %}
-                        <span class="item-title">  <font size="-2"> {{ item.title }} </font> </span>
+                        <span class="item-title"> {{ item.title }} </span>
                     {% endif %}
                     {% if item.contents %}
                       <ul class="subitems">
                       {% for subitem in item.contents %}
-                        <li><span class="subitem"> <font size="-2"> {{ subitem }} </font> </span></li>
+                        <li><span class="subitem">  {{ subitem }}  </span></li>
                       {% endfor %}
                       </ul>
                     {% endif %}
                   </li>
                 {% endfor %}
               </ol>
+            </font>
             {% endif %}
         </div>
       </li>
