@@ -1,9 +1,9 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
     {% for content in entry.contents %}
-    <li class="list-group-item">
+      <li class="list-group-item">
         <div class="row">
             {% if content.title %}
-            <h5 class="font-italic">{{ content.title }}</h5>
+            <h6 class="font-italic">{{content.title}}</h6>
             {% endif %}
             {% if content.description %}
               <ul class="items">

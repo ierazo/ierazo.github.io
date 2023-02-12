@@ -18,16 +18,22 @@
 - title: Preprints
   type: pubs_list
   contents:
-    - title: Submodular Dispatching
+    - title: Discrete and combinatorial Optimization
       description:
-        - Erazo and Toriello, under major revisions at Operations Research.
-        - title: Presentations
+        - title: Submodular Dispatching
           contents:
+            - Erazo and Toriello, under major revisions at Operations Research.
             - INFORMS General Meeting 2021.
             - Odysseus 2022.
-    - title: Efficient
+        - title: MV SMD
+          contents:
+            - To be presented in TSL
+    - title: Efficient sampling
       description:
-        - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
+        - title: Efficient bla bla
+          contents:
+            - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
+            - Sent
 
 - title: Preprint Articles
   type: nested_list
