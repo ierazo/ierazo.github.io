@@ -17,24 +17,24 @@
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.institution}}</h6>
             {% endif %}
             {% if content.description %}
+            <font size="-1"> 
               <ul class="items">
                 {% for item in content.description %}
                   <li>
                     {% if item.contents %}
                       <span class="item-title">{{ item.title }}</span>
-                      <font size="-1"> 
                       <ul class="subitems">
                       {% for subitem in item.contents %}
                         <li><span class="subitem">{{ subitem }}</span></li>
                       {% endfor %}
                       </ul>
-                      </font>
                     {% else %}
                       <span class="item">{{ item }}</span>
                     {% endif %}
                   </li>
                 {% endfor %}
               </ul>
+            </font>
             {% endif %}
             {% if content.items %}
               <ul class="items">
