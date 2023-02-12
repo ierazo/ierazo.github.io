@@ -23,6 +23,24 @@
                 {% endfor %}
               </ul>
             {% endif %}
+            {% if content.items %}
+              <ul class="items">
+                {% for item in content.items %}
+                  <li>
+                    {% if item.contents %}
+                      <span class="item-title">{{ item.title }}</span>
+                      <ul class="subitems">
+                      {% for subitem in item.contents %}
+                        <li><span class="subitem">{{ subitem }}</span></li>
+                      {% endfor %}
+                      </ul>
+                    {% else %}
+                      <span class="item">{{ item }}</span>
+                    {% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
         </div>
       </li>
     {% endfor %}
