@@ -14,9 +14,24 @@
       description:
         - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
 
+
+- title: Preprints
+  type: pubs_list
+  contents:
+    - title: Submodular Dispatching
+      description:
+        - Erazo and Toriello, under major revisions at Operations Research.
+        - title: Presentations
+          contents:
+            - INFORMS General Meeting 2021.
+            - Odysseus 2022.
+    - title: Efficient
+      description:
+        - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
+
 - title: Preprint Articles
   type: nested_list
-  contents:
+  contents: #areas
     - title: Discrete and Combinatorial Optimization.
       items: 
         - Erazo and Toriello, "Submodular Dispatching", under major revisions at <em> Operations Research </em>
