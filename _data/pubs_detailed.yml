@@ -1,10 +1,10 @@
-- title: Preprints
+# Preprints 
+- title: Working Papers
   type: pubs_list
   contents:
     - title: Discrete and combinatorial Optimization
       description:
-        - title: Erazo, I. and Toriello A., <a href="https://optimization-online.org/2022/07/8965/">Submodular Dispatching</a>,
-        under major revisions in <em> Operations Research</em> 
+        - title: Erazo, I. and Toriello A., <a href="https://optimization-online.org/2022/07/8965/">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em>. 
           contents:
             - Presented in Informs General Meeting 2021, at Odysseus Tri-annual conferece, USC, Arizona, among others.
             - <a href="../assets/pdf/example_pdf.pdf"><i class="fas fa-file-pdf"></i></a>
@@ -18,18 +18,25 @@
           contents:
             - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
 
-- title: Preprint Articles
-  type: nested_list
-  contents: #areas
-    - title: Discrete and Combinatorial Optimization.
-      items: 
-        - Erazo and Toriello, "Submodular Dispatching", under major revisions at <em> Operations Research </em>
-        
-    - title: Optimization
-      items:
-        - Description 1.
-        - Description 2.
+# Journal
+- title: Journal Articles
+  type: pubs_list
+  contents:
+    - title: Discrete and combinatorial Optimization
+      description:
+        - title: Erazo, I. and Toriello A., <a href="https://optimization-online.org/2022/07/8965/">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em> 
+          contents:
+            - Presented in Informs General Meeting 2021, at Odysseus Tri-annual conferece, USC, Arizona, among others.
+            - <a href="../assets/pdf/example_pdf.pdf"><i class="fas fa-file-pdf"></i></a>
+        - title: MV SMD
+          contents:
+            - To be presented in TSL
 
+    - title: Efficient sampling
+      description:
+        - title: Erazo, Goldsman and Mei (2022), Efficient Confidence intervals cost computations.
+          contents:
+            - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
 
 
 - title: Journal Publications
