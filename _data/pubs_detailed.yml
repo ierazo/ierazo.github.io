@@ -2,21 +2,20 @@
 - title: Working Papers
   type: pubs_list
   contents:
-    - title: Discrete and combinatorial Optimization
+    - title: Discrete and combinatorial optimization
       description:
         - title: Erazo, I. and Toriello A., <a href="https://optimization-online.org/2022/07/8965/">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em>. 
           contents:
             - Presented in Informs General Meeting 2021, at Odysseus Tri-annual conferece, USC, Arizona, among others.
             - <a href="../assets/pdf/example_pdf.pdf"><i class="fas fa-file-pdf"></i></a>
-        - title: MV SMD
+        - title: Erazo, I. and Toriello A., Multiple Vehicle Submodular Dispatching.
           contents:
-            - To be presented in TSL
+            - To be presented as a talk in the TSL annual meeting.
 
-    - title: Efficient sampling
+    - title: Efficient computation of confidence intervals
       description:
-        - title: Erazo, Goldsman and Mei (2022), Efficient Confidence intervals cost computations.
-          contents:
-            - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
+        - title: Erazo, I., Goldsman, D. and Mei, Y. (2022),  <a href="https://arxiv.org/abs/2207.01400"> "Cost-Efficient Fixed-Width Confidence Intervals for the Difference of Two Bernoulli Proportions" </a>, under major revisions in <em> Journal of Simulation </em>.
+          
 
 # Journal
 - title: Journal Articles
