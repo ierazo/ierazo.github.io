@@ -5,22 +5,20 @@
       value: Ignacio Ismael Erazo Neira
     - name: Languages
       value: Spanish (Native), French (Full Proficiency), English (Full Proficiency), Portuguese (Medium)
-    - name: Programming Languages
-      value: Python (+++), R (+), c (+)
-    - name: Software
-      value: SIMIO (+++) 
+    - name: Technical Skills
+      value: Python (+++), Gurobi (+++), Cplex (+++), SIMIO (+++), Git (++), R (+), c (+)
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Operations Research, minor in Machine Learning.
+    - title: Ph.D. in Operations Research, minor in Machine Learning
       institution: <a ref="https://www.isye.gatech.edu/">Georgia Institute of Technology, Atlanta, USA </a>
       year: 2019-2023
       description:
         - GPA 4.0
         - title: Coursework
           contents:
-            - Optimization = Linear, Discrete, Non-Linear, Stochastic and Advanced Combinatorial.
+            - Optimization (Linear, Discrete, Non-Linear, Stochastic and Advanced Combinatorial).
             - Theoretical Statistics, Stochastic Processes I and II, Simulation and its Theory.
             - Machine Learning, Theoretical Reinforcement Learning and Computational Methods.
             - Logistics, Inventory and Constraint Programming.
@@ -43,14 +41,14 @@
       institution: Amazon, Edinburgh, Scotland
       year: Sep-Dic 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Developed functions to facilitate NLP on team processes.
+        - Performed exploration for new ML models to be used as part of my team's products.
     - title: Operations Research Scientist Intern
       institution: Apple, Palo Alto, California, US
       year: May-Aug 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Developed optimization-based analytical tool to reduce inventory levels.
+        - Developed methodology that allows different optimization tools to work simultaneously to reduce transportation costs.
     - title: Research and Teaching Assistant
       institution: Georgia Institute of Technology
       year: 2019-
@@ -58,8 +56,8 @@
         - Research Assistant under different grants.
         - title: Graduate Teaching Assistant
           contents:
-            - ISyE 661...
-            - Sub-description 2.
+            - Head TA for masters courses ISyE 6644 (Simulation, Summer 2020, Fall 2020, Spring 2021), ISyE 6203 (Logistics, Spring 2022).
+            - TA under ISyE tutoring center for ISyE 3133 (Optimization) and ISyE 2027 (Probability with Applications), Fall and Spring 2019.
     - title: Inventory Optimization Intern
       institution: BHP Billiton HQ, Santiago, Chile
       year: Jan-Mar 2019
