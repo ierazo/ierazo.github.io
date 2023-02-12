@@ -27,12 +27,12 @@
         - title: MV SMD
           contents:
             - To be presented in TSL
+
     - title: Efficient sampling
       description:
-        - title: Efficient bla bla
+        - title: Erazo, Goldsman and Mei (2022), Efficient Confidence intervals cost computations.
           contents:
             - Erazo, Goldsman and Mei, under major revisions at Journal of Simulation.
-            - Modified to check how it is behaving
 
 - title: Preprint Articles
   type: nested_list
