@@ -81,26 +81,31 @@
 #      items: 
 #        - Max Planck Medal
 
-#- title: Academic Interests
-#  type: nested_list
-#  contents:
-#    - title: Topic 1.
-#      items: 
-#        - Description 1.
-#        - Description 2.
-#    - title: Topic 2.
-#      items:
-#        - Description 1.
-#        - Description 2.
-
-- title: Honors and Awards
-  type: list
+- title: Academic Interests
+  type: nested_list
   contents:
-    - Best student applied paper, WSC 2022, <em>A Simulation-Optimization Framework To Improve The Organ Transplantation Offering System<\em>
-    - Top 3 short research video at the YinzOR conference 2021 CMU <em> Submodular Dispatching <\em>
-    - Stewart Fellowship in Georgia Tech
-    - University of Concepcion Prize (Class 2014 Industrial Civil Engineering). This award is given by the university to the most deserving student (if any) of the respective class.
-    - First place of the "2019 University of Concepcion Programming Tournament" under the "Non-Computer Science" major category.
-    - Best GPA class 2014 of Industrial Civil Engineering in years 2014, 2015, 2016, 2017, 2018, 2019.
-    - Leader of World Finalist Teams for Simio Simulation Competition (Fall 2016, Spring 2017).
-    - Highest Recognition "Très Bien" in French Baccalauréat, maximum scores in Mathematics, Physics and Chemistry.
+    - title: Research-related awards
+      items: 
+        - Best student applied paper, WSC 2022, "A Simulation-Optimization Framework To Improve The Organ Transplantation Offering System".
+        - Diversity award fellowship, WSC 2022.
+        - Top 3 short research video at the YinzOR conference 2021 CMU, "Submodular Dispatching".
+    - title: Academic and competitions
+      items:
+        - Stewart Fellowship in Georgia Tech
+        - University of Concepcion Prize (Class 2014 Industrial Civil Engineering). This award is given by the university to the most deserving student (if any) of the respective class.
+        - First place of the "2019 University of Concepcion Programming Tournament" under the "Non-Computer Science" major category.
+        - Best GPA class 2014 of Industrial Civil Engineering in years 2014, 2015, 2016, 2017, 2018, 2019.
+        - Leader of World Finalist Teams for Simio Simulation Competition (Fall 2016, Spring 2017).
+        - Highest Recognition "Très Bien" in French Baccalauréat (2013), maximum scores in Mathematics, Physics and Chemistry.
+
+#- title: Honors and Awards
+#  type: list
+#  contents:
+#    - Best student applied paper, WSC 2022, "A Simulation-Optimization Framework To Improve The Organ Transplantation Offering System"
+#    - Top 3 short research video at the YinzOR conference 2021 CMU, "Submodular Dispatching".
+#    - Stewart Fellowship in Georgia Tech
+#    - University of Concepcion Prize (Class 2014 Industrial Civil Engineering). This award is given by the university to the most deserving student (if any) of the respective class.
+#    - First place of the "2019 University of Concepcion Programming Tournament" under the "Non-Computer Science" major category.
+#    - Best GPA class 2014 of Industrial Civil Engineering in years 2014, 2015, 2016, 2017, 2018, 2019.
+#    - Leader of World Finalist Teams for Simio Simulation Competition (Fall 2016, Spring 2017).
+#    - Highest Recognition "Très Bien" in French Baccalauréat, maximum scores in Mathematics, Physics and Chemistry.
