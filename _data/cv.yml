@@ -6,7 +6,7 @@
     - name: Languages
       value: Spanish (Native), French (Full Proficiency), English (Full Proficiency), Portuguese (Medium)
     - name: Technical Skills
-      value: Python (+++), Gurobi (+++), Cplex (+++), SIMIO (+++), Git (++), R (+), c (+)
+      value: Python (+++), Gurobi (+++), Cplex (+++), SIMIO (+++), sklearn (+++), pandas (+++), Xpress (++), matplotlib (++), Git (++), MATLAB (++), R (+), c (+)
 
 - title: Education
   type: time_table
@@ -81,10 +81,10 @@
 #      items: 
 #        - Max Planck Medal
 
-- title: Academic Interests
+- title: Honors and Awards
   type: nested_list
   contents:
-    - title: Research-related awards
+    - title: Research-related
       items: 
         - Best student applied paper, WSC 2022, "A Simulation-Optimization Framework To Improve The Organ Transplantation Offering System".
         - Diversity award fellowship, WSC 2022.

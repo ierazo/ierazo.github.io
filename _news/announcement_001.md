@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-19 15:59:00-0400
+date: 2022-04-01 15:59:00-0400
 inline: true
 ---
 
-Today I just finished my internship in Apple. It was such an amazing experience! 
+I successfully defended my research proposal titled "Efficient Two-Sample Bernoulli Confidence Intervals and Submodular Dispatching". I am a Ph.D. Candidate now!

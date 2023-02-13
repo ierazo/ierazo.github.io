@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Applied Student Paper at WSC 2022 
-date: 2015-11-07 16:11:00-0400
+date: 2022-12-11 16:11:00-0400
 inline: false
 ---
 
