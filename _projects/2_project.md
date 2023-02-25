@@ -20,6 +20,9 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
+<embed src="../../assets/img/wsc_rides_project/mapa1_opt.pdf" width="800" height="800" 
+ type="application/pdf">
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

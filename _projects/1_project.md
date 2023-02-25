@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-:apple:
+Banana :apple:
 
 Over this project we created what was meant to be the most-detailed/comprehensive open-source ride-hailing system simulator. We put together a model that allowed us to test and simulate different drivers' behaviors, with the goal of realizing the impact of such behaviors in the ride-hailing system and optimize accordingly. 
 
@@ -22,23 +22,26 @@ Most of our code and some brief documentation is available in <a href="https://g
 In order to solve this problem we came up with a very flexible framework, where each driver and rider is an instance of an object, having multiple attributes that define them; and where all of these attributes can then be set up easily using real-world data. We also proposed a methodology with events as objects that would interact within each other, having specific guidelines for those interactions, all over a sorted list of events that allowed us to simulate in real-time the ride-hailing system. Our main contribution is that **our model is the most detailed in the literature**, and that it can be used **under any conditions of a real-world ride-hailing system**. As presented in our paper, we used the San Francisco metropolitan area as our case study, for which we had to perform a lot of data cleaning/mangling/work.
 
 
-<embed src="../../assets/img/wsc_rides_project/mapa1_opt.pdf" width="500" height="375" 
- type="application/pdf">
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/pdf/wsc_rides_project/mapa1_opt.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wsc_rides_project/Mapa1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/pdf/wsc_rides_project/mapa2_opt.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wsc_rides_project/Mapa2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wsc_rides_project/Mapa3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
+
+<embed src="../../assets/img/wsc_rides_project/MapaTriple_opt.pdf" width="800" height="800" 
+ type="application/pdf">
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
