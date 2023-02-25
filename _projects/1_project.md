@@ -1,15 +1,22 @@
 ---
 layout: page
-title: Simulation of Ride-Hailing systems
+title: Simulation of Ride-Hailing Systems
 description: Analysis and optimization of drivers' behaviors for the system.
 img: assets/img/wsc_rides_project/Mapa1.png
 importance: 1
 category: work
 ---
 
-Banana :apple:
+Over this project we created what was meant to be the most-detailed/comprehensive open-source ride-hailing system simulator. We put together a model that allowed us to test and simulate different drivers' behaviors, with the goal of realizing the impact of such behaviors in the ride-hailing system and optimize accordingly. 
 
-Over this project we created what was meant to be the most comprehensive open-source ride-hailing system simulator. We put together a simulation model that allowed us to test and simulate different drivers' behaviors, with the goal of being able to assess the impact on a ride-hailing system and optimize accordingly. 
+Most of our code and some brief documentation is available in <a href="https://github.com/ierazo/Ride-Hailing-systems-simulation"> this GitHub repository </a>. This work is summarized in the following <a href="../../assets/pdf/conference_papers/2021_WSC_RideHailing.pdf"> WSC Paper</a>, which was presented in that conference with these <a href="../../assets/pdf/presentations/presentation_wsc_2021.pdf"> slides </a>. Basically, this problem is characterized by three main components: 
+
+
+1. Multiple actors: drivers, riders, ride-hailing company.
+2. Heterogenous actors, in particular drivers and riders.
+3. Decisions being made in real-time, with algorithms and logic developed by ride-hailing companies taking over.
+
+In order to solve the problem we came up with a methodology that uses 
 
 We developed a methodology and most of our code is available in ...
 
