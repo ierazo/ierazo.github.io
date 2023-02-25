@@ -1,11 +1,16 @@
 ---
 layout: page
-title: Ride-Hailing Drivers' Optimization
+title: RIDE-HAILING SYSTEMS SIMULATION.
 description: We analyzed how different drivers' behaviors impacted a ride-hailing system.
 img: assets/img/wsc_rides_project/mapa2_opt.pdf
 importance: 1
 category: work
 ---
+
+Over this project we created what was meant to be the most comprehensive open-source simulation tool for ride-hailing systems. We put together a model that allowed us to test and simulate different drivers' behaviors, with the goal of being able to assess the impact on a ride-hailing system and optimize accordingly. We developed a methodology and most of our code is available in ...
+
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
