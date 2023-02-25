@@ -2,28 +2,19 @@
 layout: page
 title: Simulation of Ride-Hailing systems
 description: Analysis and optimization of drivers' behaviors for the system.
-img: assets/img/wsc_rides_project/mapa_png.png
+img: assets/img/mapa_png.png
 importance: 1
 category: work
 ---
 
-Over this project we created what was meant to be the most comprehensive open-source ride-hailing system simulator. We put together a model that allowed us to test and simulate different drivers' behaviors, with the goal of being able to assess the impact on a ride-hailing system and optimize accordingly. We developed a methodology and most of our code is available in ...
+BANANA :apple:
+
+Over this project we created what was meant to be the most comprehensive open-source ride-hailing system simulator. We put together a simulation model that allowed us to test and simulate different drivers' behaviors, with the goal of being able to assess the impact on a ride-hailing system and optimize accordingly. 
+
+We developed a methodology and most of our code is available in ...
 
 
 
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
