@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RIDE-HAILING SYSTEMS SIMULATION.
+title: RIDE-HAILING SYSTEMS SIMULATION
 description: We analyzed how different drivers' behaviors impacted a ride-hailing system.
 img: assets/img/wsc_rides_project/mapa2_opt.pdf
 importance: 1
