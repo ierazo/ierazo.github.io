@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Ride-Hailing Drivers' Optimization
+description: We analyzed how different drivers' behaviors impacted a ride-hailing system.
+img: assets/img/wsc_rides_project/mapa2_opt.jpg
 importance: 1
 category: work
 ---
