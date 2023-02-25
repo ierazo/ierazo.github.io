@@ -11,7 +11,7 @@ Over this project we created what was meant to be the most-detailed/comprehensiv
 
 Most of our code and some brief documentation is available in <a href="https://github.com/ierazo/Ride-Hailing-systems-simulation"> this GitHub repository</a>. This work is summarized in the following <a href="../../assets/pdf/conference_papers/2021_WSC_RideHailing.pdf"> WSC Paper</a>, which was presented in that conference with these <a href="../../assets/pdf/presentations/presentation_wsc_2021.pdf"> slides</a>. The main contribution of this paper is that **our model is the most detailed in the literature**, and that it can be used **under any conditions of a real-world ride-hailing system**. We used the San Francisco metropolitan area as our case study, and the main results for four drivers' policies are shown in the embedded pdf below:
 
-<embed src="../../assets/img/wsc_rides_project/MapaTriple_opt.pdf" width="1200" height="1200" 
+<embed src="../../assets/img/wsc_rides_project/MapaTriple_opt.pdf" width="750" height="750" 
  type="application/pdf">
 
 Our model is extremely detailed, and as such it is the first work showing the disparity of metrics (time waiting, service level, ...) over different districts/areas for the ride-hailing system under different policies; and under different times of the week (pdf above only shows one sneek peak). Going into more detail of this project, basically, this problem is characterized by four main components: 
@@ -23,7 +23,7 @@ Our model is extremely detailed, and as such it is the first work showing the di
 
 In order to solve this problem we came up with a very flexible framework, where each driver and rider is an instance of an object, having multiple attributes that define them; and where all of these attributes can then be set up easily using real-world data. We also proposed a methodology with events as objects that would interact within each other, having specific guidelines for those interactions, all over a sorted list of events that allowed us to simulate in real-time the ride-hailing system. More details can be found in the paper, and a brief flowchart of the simulation procedure is presented below:
 
-<embed src="../../assets/img/wsc_rides_project/SimulationFullProcedure.pdf" width="1200" height="1200" 
+<embed src="../../assets/img/wsc_rides_project/SimulationFullProcedure.pdf" width="750" height="750" 
  type="application/pdf">
 
 In order to perform the case study we had to analyze a lot of spatio-temporal data, and merge many different data sources. This required multiple rounds of data cleaning/preparation and also mappings between different data sources. Some of the main challenges are shown below:
