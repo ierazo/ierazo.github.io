@@ -97,8 +97,9 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
+################################ MODIFY PART BELOW OF THE ABOUT PAGE
 contact_note: >
-  Any questions/comments please contact me at ierazo [at] gatech [dot] edu
+  If you have any questions/comments/suggestions, feel free to reach out at ierazo [at] gatech [dot] edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
