@@ -2,7 +2,7 @@
 layout: page
 title: Simulation of Ride-Hailing Systems
 description: Analysis and optimization of drivers' behaviors for the system.
-img: assets/img/wsc_rides_project/Mapa1.png
+img: assets/img/wsc_rides_project/Mapa2.png
 importance: 1
 category: work
 ---
