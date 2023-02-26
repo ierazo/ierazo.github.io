@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching and Service
-description: Service and Teaching activities performed over the years.
+description: Teaching and service activities performed over the years.
 nav: true
 nav_order: 5
 ---
