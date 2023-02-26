@@ -17,9 +17,9 @@ So far we have achieved great results, consistently beating most common stock ma
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/trading_project/rated_return_old.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/trading_project/rates_return_old.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This figure shows rates of return given unsupervised clusters that we retrieve using our technical analysis. We can identify over-performing stocks!
+    This figure shows unsupervised clusters of stocks obtained using only our technical analysis. We plot the average rates of returns over different clusters. We can identify over-performing stocks!
 </div>
