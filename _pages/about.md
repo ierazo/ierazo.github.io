@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. candidate at <a href='https://www.isye.gatech.edu/'>Georgia Tech</a>.
+subtitle: Ph.D. candidate in Operations Research (with minor in Machine Learning) at <a href='https://www.isye.gatech.edu/'>Georgia Tech</a>.
 
 profile:
   align: right
