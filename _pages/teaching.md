@@ -20,7 +20,7 @@ nav_order: 5
     - Created study material, homeworks and their grading schemes.
     - Lead weekly hybrid office hours with students.
 2. **TA for graduate simulation course ISyE 6644**
-    - Summer 2020, Fall 2020, Spring 2021, multiple times Thank-a-Teacher recipient.
+    - Summer 2020, Fall 2020, Spring 2021, multiple Thank-a-Teacher recipient.
     - Head TA for online and in-campus versions of the course, including masters and Ph.D. students.
 3. **Tutor on ISyE's tutoring center and in Chile**
     - Tutor and TA for undergraduate classes such as: Optimization and Statistics.
