@@ -16,4 +16,14 @@ This paper is joint work with Prof. David Goldsman, Prof. Pinar Keskinocak and P
     <li> <a href="../../assets/pdf/presentations/presentation_wsc_2022_full.pdf"> General Session, over Simulation-Optimization Healthcare Applications </a> </li>
 </ul>
 
+I also was fortunate enough to be one of the three recipients of the <a href="https://connect.informs.org/simulation/awards/wsc-diversity-award/awardees">WSC Diversity Award</a>:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wsc22_diversity_award.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Receiving the award in Singapore!
+</div>
 
