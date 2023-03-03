@@ -26,5 +26,5 @@ nav_order: 5
     - Head TA for online and in-campus versions of the course, including masters and Ph.D. students.
 3. **Tutor and TA for undergraduate classes**
     - Tutor in the tutoring center for ISyE 3133 Optimization course and ISyE 2027 Probability with Applications course.
-    - TA at University of Concepcion, Chile for the Optimization courses of the Industrial Engineering department.
+    - TA at the University of Concepcion, Chile: optimization courses of the Industrial Engineering department.
     - Tutor in Chile for multiple courses such as: calculus, algebra, multivariate statistical analysis, optimization, simulation, among others.
