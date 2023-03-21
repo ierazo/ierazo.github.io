@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: Ph.D. in Operations Research, minor in Machine Learning
-      institution: <a ref="https://www.isye.gatech.edu/">Georgia Institute of Technology, Atlanta, USA </a>
-      year: 2019-2023
+      institution: <a ref="https://www.isye.gatech.edu/">Georgia Institute of Technology, Atlanta, GA </a>
+      year: 2019- Dec 2023
       description:
         - GPA 4.0
         - title: Coursework
@@ -23,7 +23,7 @@
             - Machine Learning, Theoretical Reinforcement Learning and Computational Methods.
             - Logistics, Inventory and Constraint Programming.
     - title: M.Sc. in Operations Research
-      institution: Georgia Institute of Technology, Atlanta, USA
+      institution: Georgia Institute of Technology, Atlanta, GA
       year: 2019-2021
     - title: B.Sc. in Industrial Civil Engineering
       institution: Universidad de Concepcion, Concepcion, Chile
@@ -37,20 +37,28 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist Intern
+      institution: Amazon, Seattle, WA
+      year: May-Aug 2023
+      description:
+        - Will be a part of Amazon Science Fulfillment Technologies team, for warehouse optimization.
+
     - title: Applied Scientist Intern
       institution: Amazon, Edinburgh, Scotland
-      year: Sep-Dic 2022
+      year: Sep-Dec 2022
       description:
         - Developed functions to facilitate NLP on team processes.
         - Performed exploration for new ML models to be used as part of my team's products.
+
     - title: Operations Research Scientist Intern
-      institution: Apple, Palo Alto, California, US
+      institution: Apple, Palo Alto, CA
       year: May-Aug 2022
       description:
         - Developed optimization-based analytical tool to reduce inventory levels.
         - Developed methodology that allows different optimization tools to work simultaneously to reduce transportation costs.
+    
     - title: Research and Teaching Assistant
-      institution: Georgia Institute of Technology
+      institution: Georgia Institute of Technology, Atlanta, GA
       year: 2019-
       description:
         - Research Assistant under different grants.
@@ -58,6 +66,7 @@
           contents:
             - Head TA for masters courses ISyE 6644 (Simulation, Summer 2020, Fall 2020, Spring 2021), ISyE 6203 (Logistics, Spring 2022).
             - TA under ISyE tutoring center for ISyE 3133 (Optimization) and ISyE 2027 (Probability with Applications), Fall and Spring 2019.
+    
     - title: Inventory Optimization Intern
       institution: BHP Billiton HQs, Santiago, Chile
       year: Jan-Mar 2019
