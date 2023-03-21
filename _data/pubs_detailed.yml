@@ -32,11 +32,11 @@
   contents:
     - title: Simulation optimization
       description:
-        - title: Erazo, I., et al. (2022), <a href="https://www.researchgate.net/publication/367369443_A_Simulation-Optimization_Framework_to_Improve_the_Organ_Transplantation_Offering_System"> A Simulation-Optimization Framework To Improve The Organ Transplantation Offering System </a>, <em> in Proceedings of the Winter Simulation Conference 2022.</em> <a href="../assets/pdf/conference_papers/2022_WSC_Transplantation.pdf"><i class="fas fa-file-pdf"></i></a>
+        - title: Erazo, I., et al. (2022), <a href="https://www.researchgate.net/publication/367369443_A_Simulation-Optimization_Framework_to_Improve_the_Organ_Transplantation_Offering_System"> A Simulation-Optimization Framework to Improve the Organ Transplantation Offering System </a>, <em> in Proceedings of the Winter Simulation Conference 2022.</em> <a href="../assets/pdf/conference_papers/2022_WSC_Transplantation.pdf"><i class="fas fa-file-pdf"></i></a>
           contents:
             - Best Applied Student Paper Award (Winner).
             - Presented in Ph.D. Colloquium, Poster Madness and Simulation-Optimization, Health-Care Applications Tracks.
-        - title: Erazo, I. and De la Fuente, R. (2021), <a href="https://www.researchgate.net/publication/358830509_A_Simulation-Based_Approach_To_Compare_Policies_and_Stakeholders'_Behaviors_For_The_Ride-Hailing_Assignment_Problem"> A simulation-based approach to compare policies and stakeholders' behaviors for the ride-hailing assignment problem </a>, <em> in Proceedings of the Winter Simulation Conference 2021.</em> <a href="../assets/pdf/conference_papers/2021_WSC_RideHailing.pdf"><i class="fas fa-file-pdf"></i></a>
+        - title: Erazo, I. and De la Fuente, R. (2021), <a href="https://www.researchgate.net/publication/358830509_A_Simulation-Based_Approach_To_Compare_Policies_and_Stakeholders'_Behaviors_For_The_Ride-Hailing_Assignment_Problem"> A Simulation-Based Approach to Compare Policies and Stakeholders' Behaviors for the Ride-Hailing Assignment Problem </a>, <em> in Proceedings of the Winter Simulation Conference 2021.</em> <a href="../assets/pdf/conference_papers/2021_WSC_RideHailing.pdf"><i class="fas fa-file-pdf"></i></a>
 
     - title: Simulation and machine learning
       description:
