@@ -1,6 +1,6 @@
 ##################################################################### Preprints 
 - title: Working Papers
-  type: pubs_list
+  type: pubs_list_new
   contents:
     - title: Discrete and combinatorial optimization
       description:
