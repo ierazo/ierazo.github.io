@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. candidate on Operations Research with a minor in Machine Learning at <a href='https://www.isye.gatech.edu/'>Georgia Tech</a>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic_apple.jpg # found in assets/img
   image_circular: false # crops the image to make it circular
   address: >
