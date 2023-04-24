@@ -29,4 +29,4 @@ Revisit below
 -  Cost efficient: Optimizing decision-making for sampling
 -->
 
-To be added near future.
+To be added in the near future...
