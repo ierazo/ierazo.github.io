@@ -1,5 +1,23 @@
+ol {
+  counter-reset: item;
+  margin-left: 0;
+  padding-left: 0;
+}
+li {
+  display: block;
+  margin-bottom: .5em;
+  margin-left: 2em;
+}
+li::before {
+  display: inline-block;
+  content: counter(item) ") ";
+  counter-increment: item;
+  width: 2em;
+  margin-left: -2em;
+}
+
+
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% set count = 10 %}
   {% for content in entry.contents %}
     <li class="list-group-item">
       <div class="row">
@@ -8,9 +26,9 @@
           {% endif %}
           {% if content.description %}
           <font size="-1">
-            <ol type="1" >
+            <ol type="1" class="items" start="1">
               {% for item in content.description %}
-                <li value="{{ count }}">
+                <li>
                   {% if item.title %}
                       <span class="item-title"> {{ item.title }} </span>
                   {% endif %}
