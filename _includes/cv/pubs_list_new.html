@@ -1,34 +1,33 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% set count = 0 %}
+  {% set count = 1 %}
   {% for content in entry.contents %}
     <li class="list-group-item">
       <div class="row">
-        {% if content.title %}
-        <h6 class="font-weight-bold font-italic">{{content.title}}</h6>
-        {% endif %}
-        {% if content.description %}
-        <font size="-1">
-          <ol type="1">
-            {% for item in content.description %}
-            {% if item.title %}
-            <li>
-              <span class="item-title"> {{ item.title }} </span>
-              <font size="-2">
-                {% if item.contents %}
-                <ul class="subitems">
-                  {% for subitem in item.contents %}
-                  {% set count = count + 1 %}
-                  <li><span class="subitem"> {{ count }}. {{ subitem }} </span></li>
-                  {% endfor %}
-                </ul>
-                {% endif %}
-              </font>
-            </li>
-            {% endif %}
-            {% endfor %}
-          </ol>
-        </font>
-        {% endif %}
+          {% if content.title %}
+          <h6 class="font-weight-bold font-italic">{{content.title}}</h6>
+          {% endif %}
+          {% if content.description %}
+          <font size="-1">
+            <ol type="1" class="items" start="{{count}}">
+              {% for item in content.description %}
+                <li>
+                  {% if item.title %}
+                      <span class="item-title"> {{ item.title }} </span>
+                  {% endif %}
+                  <font size="-2"> 
+                  {% if item.contents %}
+                    <ul class="subitems">
+                    {% for subitem in item.contents %}
+                      <li><span class="subitem"> {{ subitem }}   </span></li>
+                    {% endfor %}
+                    </ul>
+                  {% endif %}
+                  </font>
+                </li>
+              {% endfor %}
+            </ol>
+          </font>
+          {% endif %}
       </div>
     </li>
   {% endfor %}
