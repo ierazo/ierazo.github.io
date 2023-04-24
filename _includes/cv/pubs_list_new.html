@@ -1,5 +1,17 @@
+<style>
+  .items {
+    counter-reset: count {{ count }};
+  }
+  .items li {
+    counter-increment: count;
+  }
+  .items li::before {
+    content: counter(count) ". ";
+  }
+</style>
+
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% set counter = 1 %}
+  {% set count = 1 %}
   {% for content in entry.contents %}
     <li class="list-group-item">
       <div class="row">
@@ -8,7 +20,7 @@
           {% endif %}
           {% if content.description %}
           <font size="-1">
-            <ol type="1" class="items" start="{{counter}}">
+            <ol type="1" class="items" start="{{count}}">
               {% for item in content.description %}
                 <li>
                   {% if item.title %}
@@ -19,7 +31,7 @@
                     <ul class="subitems">
                     {% for subitem in item.contents %}
                       <li><span class="subitem"> {{ subitem }}   </span></li>
-                      {% set counter = counter + 1 %}
+                      {% set count = count + 1 %}
                     {% endfor %}
                     </ul>
                   {% endif %}
