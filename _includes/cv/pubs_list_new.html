@@ -8,9 +8,9 @@
           {% endif %}
           {% if content.description %}
           <font size="-1">
-            <ol type="1" start="{{ count }}">
+            <ol type="1" >
               {% for item in content.description %}
-                <li>
+                <li value="{{ count }}">
                   {% if item.title %}
                       <span class="item-title"> {{ item.title }} </span>
                   {% endif %}
