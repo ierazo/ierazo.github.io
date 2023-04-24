@@ -20,13 +20,14 @@ social: true  # includes social icons at the bottom of the page
 # {: reversed="reversed"} below provides a reverse ordered list with numbers
 ---
 
-I am Ignacio Erazo, a fourth year Ph.D. candidate at the Georgia Institute of Technology. My research interests include the development of efficient optimization algorithms and heuristics for intelligent decision-making, but also large-scale simulation-optimization procedures. Ever since joining Georgia Tech I have been working under the supervision of [Prof. Alejandro Toriello](https://sites.gatech.edu/alejandro-toriello/) and [Prof. David Goldsman](https://www.isye.gatech.edu/users/david-goldsman); and I am currently looking for opportunities in industry. Some selected publications are:
+I am Ignacio Erazo, a fourth year Ph.D. candidate at the Georgia Institute of Technology. My research interests include the development of efficient optimization algorithms and heuristics for intelligent decision-making, but also large-scale simulation-optimization procedures. Ever since joining Georgia Tech I have been working under the supervision of [Prof. Alejandro Toriello](https://sites.gatech.edu/alejandro-toriello/) and [Prof. David Goldsman](https://www.isye.gatech.edu/users/david-goldsman); and I am currently looking for opportunities in industry. 
 
 <!---
+Some selected publications are:
 Revisit below
 - Submodular dispatching: Combinatorial optimization problem that generalizes work done in SDD and warehousing.
 - A sim opt framework: Applied paper that ...
 -  Cost efficient: Optimizing decision-making for sampling
 -->
 
-To be or not to be!
+
