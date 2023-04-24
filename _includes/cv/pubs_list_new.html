@@ -1,5 +1,6 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  <ol type="1" class="items" start="1"> 
+  <li class="list-group-item">
+    <ol type="1" class="items" start="1"> 
     {% for content in entry.contents %}
       <li class="list-group-item">
         <div class="row">
@@ -27,7 +28,7 @@
             </font>
             {% endif %}
         </div>
-      </li>
     {% endfor %}
-  </ol>
+    </ol>
+  </li>
 </ul>
