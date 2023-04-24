@@ -1,4 +1,13 @@
-<ul class="card-text font-weight-light list-group list-group-flush">
+<html>
+<head>
+  <style type="text/css">
+    ol li { counter-increment: mycounter; }
+    ol.start { counter-reset: mycounter; }
+    ol.continue { counter-reset: mycounter 2; }
+  </style>
+</head>
+<body>
+  <ul class="card-text font-weight-light list-group list-group-flush">
     {% for content in entry.contents %}
       <li class="list-group-item">
         <div class="row">
@@ -7,7 +16,7 @@
             {% endif %}
             {% if content.description %}
             <font size="-1">
-              <ol type="1" class="items" reversed>
+              <ol type="1" class="continue">
                 {% for item in content.description %}
                   <li>
                     {% if item.title %}
@@ -30,4 +39,6 @@
         </div>
       </li>
     {% endfor %}
-</ul>
+  </ul>
+</body>
+</html>
