@@ -1,46 +1,44 @@
 <style>
-  .items {
-    counter-reset: count {{ count }};
+  .numbered-items {
+    counter-reset: item-counter;
   }
-  .items li {
-    counter-increment: count;
-  }
-  .items li::before {
-    content: counter(count) ". ";
+  .numbered-items li::before {
+    counter-increment: item-counter;
+    content: counter(item-counter) ". ";
   }
 </style>
 
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% set count = 1 %}
+  {% set count = 0 %}
   {% for content in entry.contents %}
     <li class="list-group-item">
       <div class="row">
-          {% if content.title %}
-          <h6 class="font-weight-bold font-italic">{{content.title}}</h6>
-          {% endif %}
-          {% if content.description %}
-          <font size="-1">
-            <ol type="1" class="items" start="{{count}}">
-              {% for item in content.description %}
-                <li>
-                  {% if item.title %}
-                      <span class="item-title"> {{ item.title }} </span>
-                  {% endif %}
-                  <font size="-2"> 
-                  {% if item.contents %}
-                    <ul class="subitems">
-                    {% for subitem in item.contents %}
-                      <li><span class="subitem"> {{ subitem }}   </span></li>
-                      {% set count = count + 1 %}
-                    {% endfor %}
-                    </ul>
-                  {% endif %}
-                  </font>
-                </li>
-              {% endfor %}
-            </ol>
-          </font>
-          {% endif %}
+        {% if content.title %}
+        <h6 class="font-weight-bold font-italic">{{content.title}}</h6>
+        {% endif %}
+        {% if content.description %}
+        <font size="-1">
+          <ol type="1" class="numbered-items">
+            {% for item in content.description %}
+            <li>
+              {% if item.title %}
+              <span class="item-title"> {{ item.title }} </span>
+              {% endif %}
+              <font size="-2">
+                {% if item.contents %}
+                <ul class="subitems">
+                  {% for subitem in item.contents %}
+                  {% set count = count + 1 %}
+                  <li><span class="subitem"> {{ subitem }} </span></li>
+                  {% endfor %}
+                </ul>
+                {% endif %}
+              </font>
+            </li>
+            {% endfor %}
+          </ol>
+        </font>
+        {% endif %}
       </div>
     </li>
   {% endfor %}
