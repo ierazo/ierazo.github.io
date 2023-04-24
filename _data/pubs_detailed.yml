@@ -4,10 +4,10 @@
   contents:
     - title: Discrete and combinatorial optimization
       description:
-        - title: Erazo, I. and Toriello A., Multiple Vehicle Submodular Dispatching.
+        - title: Erazo, I. and Toriello A., Multiple Vehicle Submodular Dispatching. <b>[Combinatorial Optimization with Submodularity]</b>
           contents:
             - To be presented in the INFORMS Transportation and Logistics Society Triennial Conference (2023).
-        - title: Erazo, I. and Toriello A., <a href="https://www.researchgate.net/publication/361592420_Submodular_Dispatching">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em>. <a href="../assets/pdf/preprints/2022_smd_or_original.pdf"><i class="fas fa-file-pdf"></i></a>
+        - title: Erazo, I. and Toriello A., <a href="https://www.researchgate.net/publication/361592420_Submodular_Dispatching">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em>. <a href="../assets/pdf/preprints/2022_smd_or_original.pdf"><i class="fas fa-file-pdf"></i></a> <b>[Combinatorial Optimization with Submodularity]</b>
           contents:
             - Top 3 Short Presentations, YinzOR Conference Carnegie Mellon (2021).
             - Conference presentations at INFORMS Annual Meeting (2021), Odysseus International Workshop on Freight Transportation and Logistics (2021).
