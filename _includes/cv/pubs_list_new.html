@@ -8,7 +8,7 @@
           {% endif %}
           {% if content.description %}
           <font size="-1">
-            <ol type="1" class="items" start="{{count}}">
+            <ol type="1" class="items" start="{{counter}}">
               {% for item in content.description %}
                 <li>
                   {% if item.title %}
@@ -19,7 +19,7 @@
                     <ul class="subitems">
                     {% for subitem in item.contents %}
                       <li><span class="subitem"> {{ subitem }}   </span></li>
-                      {% set count = count + 1 %}
+                      {% set counter = counter + 1 %}
                     {% endfor %}
                     </ul>
                   {% endif %}
