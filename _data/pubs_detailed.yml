@@ -1,3 +1,6 @@
+# Basic text
+Publications are shown in reverse chronological order, and the first bullet point refers to keywords.
+
 ##################################################################### Preprints 
 - title: Working Papers
   type: pubs_list
@@ -17,13 +20,13 @@
     - title: Efficient computation of confidence intervals
       description:
         - title: Erazo, I., Goldsman, D. and Mei, Y. (2022),  <a href="https://www.researchgate.net/publication/361765004_Cost-Efficient_Fixed-Width_Confidence_Intervals_for_the_Difference_of_Two_Bernoulli_Proportions"> Cost-Efficient Fixed-Width Confidence Intervals for the Difference of Two Bernoulli Proportions </a>, under major revisions in <em> Journal of Simulation. </em> <a href="../assets/pdf/preprints/2022_cost_efficient_CIs.pdf"><i class="fas fa-file-pdf"></i></a>
-        - contents:
-          - Keywords = Confidence Interval, Sequential decision-making, Convex Optimization, Simulation.
+          contents:
+            - Keywords = Confidence Interval, Sequential decision-making, Convex Optimization, Simulation.
     - title: Simulation for Prediction
       description:
         - title: Erazo, I. (2023), <a href="https://www.researchgate.net/publication/370124605_SMART_SPORTS_PREDICTIONS_VIA_HYBRID_SIMULATION_NBA_CASE_STUDY"> Smart Sports Predictions Via Hybrid Simulation, NBA Case Study </a>, sent to the <em> Winter Simulation Conference 2023. </em> <a href="../assets/pdf/preprints/arxiv_WSC2023.pdf"><i class="fas fa-file-pdf"></i></a>
-        - contents:
-          - Keywords = Prediction, Hybrid Simulation, Agent-based simulation 
+          contents:
+            - Keywords = Prediction, Hybrid Simulation, Agent-based simulation 
 
 ####################################################################### Journal
 - title: Journal Articles
@@ -49,6 +52,6 @@
     - title: Simulation and machine learning
       description:
         - title: De la Fuente, R., Smith, R. and Erazo, I. (2018), <a href="https://www.researchgate.net/publication/330880329_ENABLING_INTELLIGENT_PROCESSES_IN_SIMULATION_UTILIZING_THE_TENSORFLOW_DEEP_LEARNING_RESOURCES"> Enabling Intelligent Processes in Simulation Utilizing the Tensor Flow Deep Learning Resources </a>, <em> in Proceedings of the Winter Simulation Conference 2018.</em> <a href="../assets/pdf/conference_papers/2018_WSC_ML.pdf"><i class="fas fa-file-pdf"></i></a>
-
+          contents: Policy-Making, Simulation-Optimization, Ride-Hailing, Hybrid-Simulation
 
 
