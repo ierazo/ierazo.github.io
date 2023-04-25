@@ -22,7 +22,8 @@
     - title: Simulation for Prediction
       description:
         - title: Erazo, I. (2023), <a href="https://www.researchgate.net/publication/370124605_SMART_SPORTS_PREDICTIONS_VIA_HYBRID_SIMULATION_NBA_CASE_STUDY"> Smart Sports Predictions Via Hybrid Simulation, NBA Case Study </a>, sent to the <em> Winter Simulation Conference 2023. </em> <a href="../assets/pdf/preprints/arxiv_WSC2023.pdf"><i class="fas fa-file-pdf"></i></a>
-
+        - contents:
+          - Keywords = Prediction, Hybrid Simulation, Agent-based simulation 
 
 ####################################################################### Journal
 - title: Journal Articles
