@@ -4,17 +4,21 @@
   contents:
     - title: Discrete and combinatorial optimization
       description:
-        - title: Erazo, I. and Toriello A., Multiple Vehicle Submodular Dispatching. <b>[Combinatorial Optimization with Submodularity]</b>
+        - title: Erazo, I. and Toriello A., Multiple Vehicle Submodular Dispatching. 
           contents:
+            - Keywords = Submodularity, discrete optimization, combinatorial optimization, approximation algorithms, column generation.
             - To be presented in the INFORMS Transportation and Logistics Society Triennial Conference (2023).
-        - title: Erazo, I. and Toriello A., <a href="https://www.researchgate.net/publication/361592420_Submodular_Dispatching">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em>. <a href="../assets/pdf/preprints/2022_smd_or_original.pdf"><i class="fas fa-file-pdf"></i></a> <b>[Combinatorial Optimization with Submodularity]</b>
+        - title: Erazo, I. and Toriello A., <a href="https://www.researchgate.net/publication/361592420_Submodular_Dispatching">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em>. <a href="../assets/pdf/preprints/2022_smd_or_original.pdf"><i class="fas fa-file-pdf"></i></a> 
           contents:
+            - Keywords = Submodularity, discrete optimization, combinatorial optimization, approximation algorithms, column generation.
             - Top 3 Short Presentations, YinzOR Conference Carnegie Mellon (2021).
             - Conference presentations at INFORMS Annual Meeting (2021), Odysseus International Workshop on Freight Transportation and Logistics (2021).
 
     - title: Efficient computation of confidence intervals
       description:
         - title: Erazo, I., Goldsman, D. and Mei, Y. (2022),  <a href="https://www.researchgate.net/publication/361765004_Cost-Efficient_Fixed-Width_Confidence_Intervals_for_the_Difference_of_Two_Bernoulli_Proportions"> Cost-Efficient Fixed-Width Confidence Intervals for the Difference of Two Bernoulli Proportions </a>, under major revisions in <em> Journal of Simulation. </em> <a href="../assets/pdf/preprints/2022_cost_efficient_CIs.pdf"><i class="fas fa-file-pdf"></i></a>
+        - contents:
+          - Keywords = Confidence Interval, Sequential decision-making, Convex Optimization, Simulation.
     - title: Simulation for Prediction
       description:
         - title: Erazo, I. (2023), <a href="https://www.researchgate.net/publication/370124605_SMART_SPORTS_PREDICTIONS_VIA_HYBRID_SIMULATION_NBA_CASE_STUDY"> Smart Sports Predictions Via Hybrid Simulation, NBA Case Study </a>, sent to the <em> Winter Simulation Conference 2023. </em> <a href="../assets/pdf/preprints/arxiv_WSC2023.pdf"><i class="fas fa-file-pdf"></i></a>
