@@ -1,20 +1,17 @@
 <style>
 
-  ol li {
-  
-  counter-increment: OrderedList;
-  
-  list-style: none;
-  
+  ol.bracketed {
+    counter-reset: bracketed-counter;
+    list-style: none;
+    padding-left: 0;
   }
   
-  ol li :before {
-  
-  content: "(" counter(OrderedList) ") ";
-  
+  ol.bracketed li:before {
+    content: "[" counter(bracketed-counter) "] ";
+    counter-increment: bracketed-counter;
   }
   
-  </style>
+</style>
 
 <ul class="card-text font-weight-light list-group list-group-flush">
     {% for content in entry.contents %}
@@ -25,7 +22,7 @@
             {% endif %}
             {% if content.description %}
             <font size="-1">
-              <ol type="1" class="items"  reversed>
+              <ol type="1" class="bracketed"  reversed>
                 {% for item in content.description %}
                   <li>
                     {% if item.title %}
