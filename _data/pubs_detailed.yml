@@ -1,6 +1,6 @@
 ##################################################################### Preprints 
 - title: Preprints and Working Papers
-  type: pubs_list
+  type: pubs_list_new
   contents:
       - description:
         - title: Erazo, I. and Toriello A., Multiple Vehicle Submodular Dispatching. 
