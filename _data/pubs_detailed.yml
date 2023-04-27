@@ -22,8 +22,7 @@
   type: pubs_list
   contents:
     - description:
-        - title: Erazo, I. and Goldsman, D. (2021), 
-        <a href="https://www.researchgate.net/publication/355212303_Efficient_confidence_intervals_for_the_difference_of_two_Bernoulli_distributions'_success_parameters">Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters </a>, <em> Journal of Simulation. </em> <a href="../assets/pdf/journal_papers/2021_CIs_min_samples.pdf"><i class="fas fa-file-pdf"></i></a><b>[EFF-CI], [APP-HC]</b>
+        - title: Erazo, I. and Goldsman, D. (2021), <a href="https://www.researchgate.net/publication/355212303_Efficient_confidence_intervals_for_the_difference_of_two_Bernoulli_distributions'_success_parameters">Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters </a>, <em> Journal of Simulation. </em> <a href="../assets/pdf/journal_papers/2021_CIs_min_samples.pdf"><i class="fas fa-file-pdf"></i></a><b>[EFF-CI], [APP-HC]</b>
 
 
 #################################################################### Conference
