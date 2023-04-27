@@ -2,8 +2,7 @@
 - title: Preprints and Working Papers
   type: pubs_list
   contents:
-      description:
-
+      - description:
         - title: Erazo, I. and Toriello A., Multiple Vehicle Submodular Dispatching. 
           contents:
             - Keywords = Submodularity, discrete optimization, combinatorial optimization, approximation algorithms, column generation.
