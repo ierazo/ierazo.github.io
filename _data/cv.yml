@@ -5,15 +5,13 @@
       value: Ignacio Ismael Erazo Neira
     - name: Languages
       value: Spanish (Native), French (Full Proficiency), English (Full Proficiency), Portuguese (Medium)
-    - name: Technical Skills
-      value: Python (+++), Gurobi (+++), Cplex (+++), SIMIO (+++), sklearn (+++), pandas (+++), Xpress (++), matplotlib (++), Git (++), MATLAB (++), R (+), c (+)
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Operations Research, minor in Machine Learning
       institution: <a ref="https://www.isye.gatech.edu/">Georgia Institute of Technology</a>
-      department: ISyE
+      department: H. Milton Stewart School of Industrial and Systems Engineering
       location: Atlanta, USA
       year: 2019- Dec 2023
       description:
@@ -27,7 +25,6 @@
     
     - title: M.Sc. in Operations Research
       institution: Georgia Institute of Technology
-      department: ISyE
       location: Atlanta, GA
       year: 2019-2021
       linkitems:
@@ -35,12 +32,13 @@
           linkname: 'Diploma'
 
     - title: B.Sc. in Industrial Civil Engineering
-      institution: Universidad de Concepcion, Concepcion, Chile
+      institution: Universidad de Concepcion
+      location: , Concepcion, Chile
       year: 2014-2019
       maindescription:
         Bachelor degree in Civil Enegineering (4 years), and a specialization in Industrial Engineering with a focus in Math and Optimization.
-        <br><br>
         Thesis done in simulation-optimization for ride-hailing.
+        <br><br>
       description:
         - GPA 6.7/7, rank 1/120, best GPA each year
         - title: Coursework
@@ -49,32 +47,36 @@
             - Business minor = Innovation, Entrepreneurship, Administration, Human Resources.
 
 
-
 - title: Experience
   type: time_table
   contents:
     - title: Research Scientist Intern
-      institution: Amazon, Seattle, WA
+      institution: Amazon
+      department: Amazon Science division
+      location: Seattle, WA
       year: May-Aug 2023
       description:
         - Will be a part of Amazon Science Fulfillment Technologies team, for warehouse optimization.
 
     - title: Applied Scientist Intern
-      institution: Amazon, Edinburgh, Scotland
+      institution: Amazon 
+      location: Edinburgh, Scotland
       year: Sep-Dec 2022
       description:
         - Developed functions to facilitate NLP on team processes.
         - Performed exploration for new ML models to be used as part of my team's products.
 
     - title: Operations Research Scientist Intern
-      institution: Apple, Palo Alto, CA
+      institution: Apple
+      location: Palo Alto, CA
       year: May-Aug 2022
       description:
         - Developed optimization-based analytical tool to reduce inventory levels.
         - Developed methodology that allows different optimization tools to work simultaneously to reduce transportation costs.
     
     - title: Research and Teaching Assistant
-      institution: Georgia Institute of Technology, Atlanta, GA
+      institution: Georgia Institute of Technology
+      location: Atlanta, GA
       year: 2019-
       description:
         - Research Assistant under different grants.
@@ -84,8 +86,61 @@
             - TA under ISyE tutoring center for ISyE 3133 (Optimization) and ISyE 2027 (Probability with Applications), Fall and Spring 2019.
     
     - title: Inventory Optimization Intern
-      institution: BHP Billiton HQs, Santiago, Chile
+      institution: BHP Billiton HQs
+      location: Santiago, Chile
       year: Jan-Mar 2019
+
+
+- title: Other knowledge and skills
+  type: list_groups
+  contents:
+    - category: Programing languages
+      icon: fas fa-code
+      items:
+        - name: MATLAB
+          level: Professional level.
+        - name: C++
+          level: Intermediate level..
+        - name: Python
+          level: Intermediate/advanced level.
+        - name: Java
+          level: Intermediate level.
+        - name: VBA
+          level: Elementary level.
+        - name: HTML
+          level: Intermediate level.
+        - name: PHP
+          level: Elementary level.
+        - name: CSS
+          level: Intermediate level.
+    - category: Software
+      icon: fas fa-window-maximize
+      items:
+        - name: PyCharm
+          level: Intermediate level.
+        - name: CLion
+          level: Intermediate level.
+        - name: COMSOL Multiphysics
+          level: Advanced level.
+        - name: LabView
+          level: Intermediate level.
+        - name: CATT-Acoustic
+          level: Intermediate/advanced.
+        - name: EASE
+          level: Intermediate level.
+        - name: Excel
+          level: Advanced level.
+        - name: Suite Adobe
+          level: Intermediate level.
+    - category: Document composition
+      icon: fas fa-book
+      items:
+        - name: LaTeX
+          level: Advanced level.
+        - name: Word
+          level: Intermediate/advanced level.
+        - name: Power Point
+          level: Advanced level.
 
 
 #- title: Open Source Projects
