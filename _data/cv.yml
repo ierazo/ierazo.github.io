@@ -1,10 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Ignacio Ismael Erazo Neira
-    - name: Languages
-      value: Spanish (Native), French (Full Proficiency), English (Full Proficiency), Portuguese (Medium)
 
 - title: Education
   type: time_table
@@ -12,8 +5,8 @@
     - title: Ph.D. in Operations Research, minor in Machine Learning
       institution: <a ref="https://www.isye.gatech.edu/">Georgia Institute of Technology</a>
       department: H. Milton Stewart School of Industrial and Systems Engineering
-      location: Atlanta, USA
-      year: 2019- Dec 2023
+      location: Atlanta, GA, USA
+      year: 07/2019- 12/2023
       description:
         - GPA 4.0
         - title: Coursework
@@ -25,8 +18,8 @@
     
     - title: M.Sc. in Operations Research
       institution: Georgia Institute of Technology
-      location: Atlanta, GA
-      year: 2019-2021
+      location: Atlanta, GA, USA
+      year: 07/2019-12/2021
       linkitems:
         - link: /assets/pdf/Diploma_Master_OR.pdf
           linkname: 'Diploma'
@@ -34,7 +27,7 @@
     - title: B.Sc. in Industrial Civil Engineering
       institution: Universidad de Concepcion
       location: Concepcion, Chile
-      year: 2014-2019
+      year: 03/2014-06/2019
       maindescription:
         Bachelor degree in Civil Enegineering (4 years), and a specialization in Industrial Engineering with a focus in Math and Optimization.
         Thesis done in simulation-optimization for ride-hailing.
@@ -53,31 +46,31 @@
     - title: Research Scientist Intern
       institution: Amazon
       department: Amazon Science division
-      location: Seattle, WA
-      year: May-Aug 2023
+      location: Seattle, WA, USA
+      year: 05/2023-08/2023
       description:
         - Will be a part of Amazon Science Fulfillment Technologies team, for warehouse optimization.
 
     - title: Applied Scientist Intern
       institution: Amazon 
       location: Edinburgh, Scotland
-      year: Sep-Dec 2022
+      year: 09/2022-12/2022
       description:
-        - Developed functions to facilitate NLP on team processes.
+        - Coded functions to facilitate NLP on team processes.
         - Performed exploration for new ML models to be used as part of my team's products.
 
     - title: Operations Research Scientist Intern
       institution: Apple
-      location: Palo Alto, CA
-      year: May-Aug 2022
+      location: Palo Alto, CA, USA
+      year: 05/2022-08/2022
       description:
-        - Developed optimization-based analytical tool to reduce inventory levels.
+        - Created optimization-based analytical tool to reduce inventory levels.
         - Developed methodology that allows different optimization tools to work simultaneously to reduce transportation costs.
     
     - title: Research and Teaching Assistant
       institution: Georgia Institute of Technology
-      location: Atlanta, GA
-      year: 2019-
+      location: Atlanta, GA, USA
+      year: 2019-current
       description:
         - Research Assistant under different grants.
         - title: Graduate Teaching Assistant
@@ -86,9 +79,10 @@
             - TA under ISyE tutoring center for ISyE 3133 (Optimization) and ISyE 2027 (Probability with Applications), Fall and Spring 2019.
     
     - title: Inventory Optimization Intern
-      institution: BHP Billiton HQs
+      institution: BHP Billiton
+      department: South American Headquarters
       location: Santiago, Chile
-      year: Jan-Mar 2019
+      year: 01/2019-03/2019
 
 
 - title: Other knowledge and skills
@@ -97,50 +91,58 @@
     - category: Programing languages
       icon: fas fa-code
       items:
-        - name: MATLAB
-          level: Professional level.
-        - name: C++
-          level: Intermediate level..
         - name: Python
-          level: Intermediate/advanced level.
-        - name: Java
-          level: Intermediate level.
-        - name: VBA
-          level: Elementary level.
+          level: Advanced level.
+        - name: R
+          level: Beginner level.
+        - name: C
+          level: Beginner level.
         - name: HTML
-          level: Intermediate level.
-        - name: PHP
-          level: Elementary level.
-        - name: CSS
-          level: Intermediate level.
+          level: Beginner level.
+        
     - category: Software
       icon: fas fa-window-maximize
       items:
-        - name: PyCharm
-          level: Intermediate level.
-        - name: CLion
-          level: Intermediate level.
-        - name: COMSOL Multiphysics
+        - name: NumPy
           level: Advanced level.
-        - name: LabView
+        - name: SkLearn
+          level: Advanced level.
+        - name: Git
           level: Intermediate level.
-        - name: CATT-Acoustic
-          level: Intermediate/advanced.
-        - name: EASE
-          level: Intermediate level.
+        - name: Simio
+          level: Advanced level.
         - name: Excel
           level: Advanced level.
-        - name: Suite Adobe
+        - name: Gurobi
+          level: Advanced level.
+        - name: Cplex
           level: Intermediate level.
+        - name: Xpress
+          level: Beginner level.
+
     - category: Document composition
       icon: fas fa-book
       items:
         - name: LaTeX
           level: Advanced level.
         - name: Word
-          level: Intermediate/advanced level.
+          level: Advanced level.
         - name: Power Point
           level: Advanced level.
+        - name: Keynote
+          level: Advanced level.
+
+    - category: Languages
+      icon: fas fa-book-reader
+      items:
+        - name: Spanish
+          level: Native.
+        - name: French
+          level: Almost native.
+        - name: English
+          level: Advanced level.
+        - name: Portuguese
+          level: Intermediate level.
 
 
 #- title: Open Source Projects
