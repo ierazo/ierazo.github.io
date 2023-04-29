@@ -12,7 +12,9 @@
   type: time_table
   contents:
     - title: Ph.D. in Operations Research, minor in Machine Learning
-      institution: <a ref="https://www.isye.gatech.edu/">Georgia Institute of Technology, Atlanta, GA </a>
+      institution: <a ref="https://www.isye.gatech.edu/">Georgia Institute of Technology</a>
+      department: ISyE
+      location: Atlanta, USA
       year: 2019- Dec 2023
       description:
         - GPA 4.0
@@ -22,18 +24,32 @@
             - Theoretical Statistics, Stochastic Processes I and II, Simulation and its Theory.
             - Machine Learning, Theoretical Reinforcement Learning and Computational Methods.
             - Logistics, Inventory and Constraint Programming.
+    
     - title: M.Sc. in Operations Research
-      institution: Georgia Institute of Technology, Atlanta, GA
+      institution: Georgia Institute of Technology
+      department: ISyE
+      location: Atlanta, GA
       year: 2019-2021
+      linkitems:
+        - link: /assets/pdf/Diploma_Master_OR.pdf
+          linkname: 'Diploma'
+
     - title: B.Sc. in Industrial Civil Engineering
       institution: Universidad de Concepcion, Concepcion, Chile
       year: 2014-2019
+      maindescription:
+        Bachelor degree in Civil Enegineering (4 years), and a specialization in Industrial Engineering with a focus in Math and Optimization.
+        <br><br>
+        Thesis done in simulation-optimization for ride-hailing.
       description:
         - GPA 6.7/7, rank 1/120, best GPA each year
         - title: Coursework
           contents:
             - Traditional engineering + science + optimization and stats classes.
             - Business minor = Innovation, Entrepreneurship, Administration, Human Resources.
+
+
+
 - title: Experience
   type: time_table
   contents:
