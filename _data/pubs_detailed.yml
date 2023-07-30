@@ -6,23 +6,21 @@
         - title: Erazo, I. and Toriello A., Multiple Vehicle Submodular Dispatching. <b>[DISC-OPT], [APP-LOG]</b>
           contents:
             - To be presented in the INFORMS Transportation and Logistics Society Triennial Conference (2023).
+            - To be presented in the INFORMS Annual Meeting (October 2023)
         
         - title: Erazo, I. and Toriello A., <a href="https://www.researchgate.net/publication/361592420_Submodular_Dispatching">Submodular Dispatching</a>, under major revisions in <em> Operations Research</em>. <a href="../assets/pdf/preprints/2022_smd_or_original.pdf"><i class="fas fa-file-pdf"></i></a>  <b>[DISC-OPT], [APP-LOG]</b>
           contents:
             - Top 3 Short Presentations, YinzOR Conference Carnegie Mellon (2021).
             - Conference presentations at INFORMS Annual Meeting (2021), Odysseus International Workshop on Freight Transportation and Logistics (2021).
         
-        - title: Erazo, I., Goldsman, D. and Mei, Y. (2022),  <a href="https://www.researchgate.net/publication/361765004_Cost-Efficient_Fixed-Width_Confidence_Intervals_for_the_Difference_of_Two_Bernoulli_Proportions"> Cost-Efficient Fixed-Width Confidence Intervals for the Difference of Two Bernoulli Proportions </a>, under major revisions in <em> Journal of Simulation. </em> <a href="../assets/pdf/preprints/2022_cost_efficient_CIs.pdf"><i class="fas fa-file-pdf"></i></a> <b>[EFF-CI], [APP-HC]</b>
-
-        - title: Erazo, I. (2023), <a href="https://www.researchgate.net/publication/370124605_SMART_SPORTS_PREDICTIONS_VIA_HYBRID_SIMULATION_NBA_CASE_STUDY"> Smart Sports Predictions Via Hybrid Simulation, NBA Case Study </a>, sent to the <em> Winter Simulation Conference 2023. </em> <a href="../assets/pdf/preprints/arxiv_WSC2023.pdf"><i class="fas fa-file-pdf"></i></a> <b>[HYB-SIM], [APP-SP]</b>
-
 
 ####################################################################### Journal
 - title: Journal Articles
   type: pubs_list
   contents:
     - description:
-        - title: Erazo, I. and Goldsman, D. (2021), <a href="https://www.researchgate.net/publication/355212303_Efficient_confidence_intervals_for_the_difference_of_two_Bernoulli_distributions'_success_parameters">Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters </a>, <em> Journal of Simulation. </em> <a href="../assets/pdf/journal_papers/2021_CIs_min_samples.pdf"><i class="fas fa-file-pdf"></i></a><b>[EFF-CI], [APP-HC]</b>
+        - title: Erazo, I., Goldsman, D. and Mei, Y. (2023),  <a href="https://www.researchgate.net/publication/361765004_Cost-Efficient_Fixed-Width_Confidence_Intervals_for_the_Difference_of_Two_Bernoulli_Proportions"> Cost-Efficient Fixed-Width Confidence Intervals for the Difference of Two Bernoulli Proportions </a>, <em> Journal of Simulation. </em> <a href="../assets/pdf/journal_papers/2022_cost_efficient_CIs.pdf"><i class="fas fa-file-pdf"></i></a> <b>[EFF-CI], [APP-HC]</b>
+        - title: Erazo, I. and Goldsman, D. (2021), <a href="https://www.researchgate.net/publication/355212303_Efficient_confidence_intervals_for_the_difference_of_two_Bernoulli_distributions'_success_parameters"> Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters </a>, <em> Journal of Simulation. </em> <a href="../assets/pdf/journal_papers/2021_CIs_min_samples.pdf"><i class="fas fa-file-pdf"></i></a><b>[EFF-CI], [APP-HC]</b>
 
 
 #################################################################### Conference
@@ -30,6 +28,7 @@
   type: pubs_list
   contents:
     - description:
+        - title: Erazo, I. (2023), <a href="https://www.researchgate.net/publication/370124605_SMART_SPORTS_PREDICTIONS_VIA_HYBRID_SIMULATION_NBA_CASE_STUDY"> Smart Sports Predictions Via Hybrid Simulation, NBA Case Study </a>, will be published and presented in the <em> Winter Simulation Conference 2023. </em> <a href="../assets/pdf/conference_papers/2023_WSC_Hybrid_NBA.pdf"><i class="fas fa-file-pdf"></i></a> <b>[HYB-SIM], [APP-SP]</b>
         - title: Erazo, I., et al. (2022), <a href="https://www.researchgate.net/publication/367369443_A_Simulation-Optimization_Framework_to_Improve_the_Organ_Transplantation_Offering_System"> A Simulation-Optimization Framework to Improve the Organ Transplantation Offering System </a>, <em> in Proceedings of the Winter Simulation Conference 2022.</em> <a href="../assets/pdf/conference_papers/2022_WSC_Transplantation.pdf"><i class="fas fa-file-pdf"></i></a> <b>[SIM-OPT], [APP-HC]</b>
           contents:
             - Best Applied Student Paper Award (Winner).
