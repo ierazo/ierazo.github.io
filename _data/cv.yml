@@ -6,7 +6,7 @@
       institution: <a ref="https://www.isye.gatech.edu/">Georgia Institute of Technology</a>
       department: H. Milton Stewart School of Industrial and Systems Engineering
       location: Atlanta, GA, USA
-      year: 07/2019- 12/2023
+      year: 07/2019- 01/2024
       description:
         - GPA 4.0
         - title: Coursework
@@ -45,13 +45,22 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist II
+      institution: Amazon
+      department: Amazon Science, Amazon Fulfillment Technologies
+      location: Bellevue, WA, USA
+      year: 01/2024- Now
+      description:
+        - Innovation on optimization algorithms for robotic warehouses.
+        - Worked on the deployment of new optimization methods network-wide for state-of-the-art warehouses.
+
     - title: Research Scientist Intern
       institution: Amazon
       department: Amazon Science division
       location: Seattle, WA, USA
       year: 05/2023-08/2023
       description:
-        - Will be a part of Amazon Science Fulfillment Technologies team, for warehouse optimization.
+        - Created a new large-scale optimization-based algorithm to improve picking efficiency in state-of-the-art robotic warehouses.
 
     - title: Applied Scientist Intern
       institution: Amazon 
@@ -95,6 +104,10 @@
       items:
         - name: Python
           level: Advanced level.
+        - name: Java
+          level: Intermediate level.
+        - name: Git
+          level: Intermediate level.
         - name: R
           level: Beginner level.
         - name: C
@@ -109,19 +122,17 @@
           level: Advanced level.
         - name: SkLearn
           level: Advanced level.
-        - name: Git
-          level: Intermediate level.
         - name: Simio
           level: Advanced level.
         - name: Excel
           level: Advanced level.
         - name: Gurobi
           level: Advanced level.
+        - name: Xpress
+          level: Advanced level.
         - name: Cplex
           level: Intermediate level.
-        - name: Xpress
-          level: Beginner level.
-
+        
     - category: Document composition
       icon: fas fa-book
       items:
