@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ignacio
 middle_name: # Put something if needed
 last_name: Erazo
-email: ierazo@gatech.edu
+email: ierazo@amazon.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ignacio's Erazo website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -99,7 +99,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 
 ################################ MODIFY PART BELOW OF THE ABOUT PAGE
 contact_note: >
-  If you have any questions/comments/suggestions, feel free to reach out at ierazo [at] gatech [dot] edu
+  If you have any questions/comments/suggestions, feel free to reach out at ierazo [at] amazon [dot] com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
