@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 # {: reversed="reversed"} below provides a reverse ordered list with numbers
 ---
 
-I am a Research Scientist II working at Amazon Fulfillment Technologies (AFT); my main focus is on creating and deploying new algorithms for large-scale online order planning, picking and execution on state-of-the-art robotic-assisted warehouses. 
+I am a Applied Scientist II working at Amazon Fulfillment Technologies (AFT); my main focus is on creating and deploying new algorithms for large-scale online order planning, picking and execution on state-of-the-art robotic-assisted warehouses. My work is deployed all over North American and European Amazon Robotics Fulfillment Centers [(see video)](https://www.youtube.com/watch?v=NZTVgExZqoI) and I design optimization algorithms that interact with [very cool robots](https://www.aboutamazon.com/news/operations/amazon-fulfillment-center-robotics-ai). 
 
 Before joining Amazon, I got my Ph.D. on Operations Research with a minor in Machine Learning at Georgia Tech, where I worked under the supervision of [Prof. Alejandro Toriello](https://sites.gatech.edu/alejandro-toriello/) and [Prof. David Goldsman](https://www.isye.gatech.edu/users/david-goldsman).
 
