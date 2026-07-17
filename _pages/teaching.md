@@ -9,6 +9,9 @@ nav_order: 5
 
 ### *Service:*
 
+1. **Transportation Science Reviewer (2026 - Now):** Reviewer for the <a href="https://pubsonline.informs.org/journal/trsc"> Transportation Science</a> journal.
+1. **AAAI Reviewer and Program Committee Member (2025 - Now):** Reviewer and Program Committee member for <a href="https://aaai.org/">AAAI</a> workshops, such as the workshop on Next-Gen Code Development with Collaborative AI Agents.
+1. **Amazon Conference Reviewer (2024 - Now):** Reviewer for internal Amazon conferences: the Consumer Science Summit, the Amazon Machine Learning Conference and the Amazon Fulfillment Simulation Symposium.
 1. **TPC for Winter Simulation Conference (2023 - Now):** Member of the Track Program Committee for the "Logistics" track in WSC since 2023. 
 1. **EJOR Reviewer (2022 - Now):** Reviewer for the <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research"> European Journal of Operational Research</a> on the optimization area.
 1. **GSAC ISyE in Georgia Tech (2021-2023):** One of the four members of the <a href="https://www.isye.gatech.edu/academics/masters/current-students/graduate-student-advisory-council"> Graduate Student Advisory Commitee</a> in the Industrial and Systems Engineering department at Georgia Tech. Our role is to help organizing activities for prospective students such as the visit week, but also to promote our current students' wellbeing, and share their thoughts with our department leadership.
